@@ -4,7 +4,7 @@ tvg_ids_logos = {'GOL MUNDIAL HD': 'https://i.postimg.cc/3ryZ9n8G/golmundial.png
                  'DAZN 2 HD': 'https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png',
                  'DAZN 3 HD': 'https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png',
                  'DAZN 4 HD': 'https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png',
-                 'DAZN F1 HD': 'https://hips.hearstapps.com/autoweek/assets/s3fs-public/DPkZATWXUAAnsCz.jpg',
+                 'DAZN F1 HD': 'https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw',
                  'DAZN LaLiga HD': 'https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg',
                  'DAZN LaLiga 2 HD': 'https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg',
                  'EUROSPORT 1 HD': 'https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg',
