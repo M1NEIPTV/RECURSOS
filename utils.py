@@ -8,8 +8,8 @@ tvg_ids_logos = {
     "DAZN F1 HD": "https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw",
     "DAZN LaLiga HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
     "DAZN LaLiga 2 HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
-    "EUROSPORT 1 HD": "https://e7.pngegg.com/pngimages/762/125/png-clipart-eurosport-android-app-store-sports-logo-sport-logo.png",
-    "EUROSPORT 2": "https://e7.pngegg.com/pngimages/762/125/png-clipart-eurosport-android-app-store-sports-logo-sport-logo.png",
+    "EUROSPORT 1 HD": "https://layout.eurosport.com/i/v8/promo_mobile/news/wen/logo.png",
+    "EUROSPORT 2": "https://layout.eurosport.com/i/v8/promo_mobile/news/wen/logo.png",
     "M+ #VAMOS HD": "https://pbs.twimg.com/media/DnPmAeEXgAEHQmr.jpg",
     "M+ DEPORTES HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     "M+ DEPORTES 2 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
@@ -50,7 +50,7 @@ tvg_ids_logos = {
     "Sport TV3 POR HD": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
     # beIN ñ
     "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
-    "M+ Ellas #V HD": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqKK0A9bLjjrmoL23GSawBsgag9Q63grvjKwmRoKfHseFfXcmzHs8JCUlWJ-yyDLWnTw&usqp=CAU",
+    "M+ Ellas #V HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     # ESPN COLOMBIA
     "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
     # ESPN2 COLOMBIA
