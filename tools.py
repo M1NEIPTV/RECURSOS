@@ -2,7 +2,6 @@ import sys
 from bs4 import BeautifulSoup
 from torpy.http.requests import TorRequests
 
-
 def scraper():
     grab = None
     lista = ""
@@ -18,10 +17,7 @@ def scraper():
                     grab = sess.get(link)
                     print(grab)
         except:
-            # El error de la librería torpy no tiene importancia y no afecta a futuros runs
             print("scraper : ERROR : line 20 torpy error")
-            #sys.exit(1) envía correo de aviso
-            #sys.exit(0) NO envía correo
             sys.exit(0)
 
     soup = BeautifulSoup(grab.text, 'html.parser')
@@ -35,13 +31,9 @@ def scraper():
             lista += str((canal + "\n" + link + "\n"))
 
             contenido = ((lista.replace(u'\xa0', u' ')).strip())
-
     if contenido != "":
         print("scraper : OK : channels retrieved")
     else:
         print("scraper : ERROR : channels could not be retrieved")
         sys.exit(0)
-
     return contenido
-
-#scraper()
