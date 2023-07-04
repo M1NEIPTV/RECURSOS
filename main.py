@@ -2,19 +2,12 @@ import utils as u
 import re
 from tools import *
 import asyncio
-# Push from terminal from a second user
-# git config --local credential.helper ""
-
-
-
 
 def main():
     asyncio.run(export_messages())
-    
 
 async def export_messages(export_file = "base.txt"):
-    
-        channel_dict = dict()  # {channel_id: channel_name}
+        channel_dict = dict()
         
         try:
             contenido = scraper()
@@ -26,9 +19,7 @@ async def export_messages(export_file = "base.txt"):
             
         export_channels(channel_dict, export_file)
     
-  
 def cleanse_message(message_content):
-    
     cleansed_content = ""
     rows = [row for row in message_content.split("\n") if len(row.strip()) > 0]
     channel_id_regex = r'[a-zA-Z0-9]{40}'
@@ -43,9 +34,7 @@ def cleanse_message(message_content):
                 
     return cleansed_content
 
-
 def update_channel_dict(message_content, channel_dict):
-    
     rows = message_content.split("\n")
     
     for i, row in enumerate(rows):
@@ -75,9 +64,7 @@ def update_channel_dict(message_content, channel_dict):
             
     return channel_dict
 
-
 def export_channels(channel_dict, export_file):
-    
     channel_list = []
     
     for channel_id, channel_name in channel_dict.items():
@@ -96,7 +83,6 @@ def export_channels(channel_dict, export_file):
     all_channels = ""
     all_channels += '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"\n'
     channel_pattern = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO" ,CHANNELTITLE\nacestream://CHANNELID\n'
-    #channel_pattern = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO" ,CHANNELTITLE\nhttp://127.0.0.1:6878/ace/getstream?id=CHANNELID\n'
 
     for group_title in u.group_title_order:
         for channel_info in channel_list:
@@ -108,10 +94,8 @@ def export_channels(channel_dict, export_file):
                                                .replace("CHANNELTITLE", channel_info["channel_name"])
 
     if all_channels != "":
-        
         all_channels_kodi = all_channels.replace("acestream://", "plugin://script.module.horus?action=play&id=")
         all_channels_get = all_channels.replace("acestream://", "http://127.0.0.1:6878/ace/getstream?id=")
-
 
         with open(export_file, "w") as f:
             f.write(all_channels)
@@ -122,16 +106,13 @@ def export_channels(channel_dict, export_file):
             k.write(all_channels_kodi)
             print("exportChannels : OK : kodi list exported to Github")
             k.close()
-
+            
         with open("get.txt", "w") as g:
             g.write(all_channels_get)
             print("exportChannels : OK : get list exported to Github")
             g.close()
-            
     else:
         print("exportChannels : ERROR : list is empty")
         
-
 if __name__ == "__main__":
     main()
-    #gitUpdate()
