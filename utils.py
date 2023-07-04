@@ -63,7 +63,7 @@ tvg_ids_logos = {
     "NBA": "https://i.imgur.com/4QrPlos.png",
     # TENNIS CHANNEL
     "I217.33395.zap2it.com": "https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg",
-    "SETANTA": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU",
+    "SETANTA": "https://play-lh.googleusercontent.com/mGMq60f8H_PKAGAy5AkYne4UJf9ATuac-zmJL6_jrUsIR7HnvTcHGCD0zb-g3lNuWGQ",
     "OTROS": "https://i.imgur.com/U4w7Bgy.png",
 }
 
