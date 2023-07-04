@@ -66,6 +66,7 @@ def update_channel_dict(message_content, channel_dict):
 
 def export_channels(channel_dict, export_file):
     channel_list = []
+    excluded_channels = ["La 1", "CUATRO", "Telecinco", "BeMad", "ESPN", "Barça", "beIN", "tdp", "GOL TV"]
     
     for channel_id, channel_name in channel_dict.items():
         group_title = u.extract_group_title(channel_name)
@@ -87,11 +88,12 @@ def export_channels(channel_dict, export_file):
     for group_title in u.group_title_order:
         for channel_info in channel_list:
             if channel_info["group_title"] == group_title:
-                all_channels += channel_pattern.replace("GROUPTITLE", channel_info["group_title"]) \
-                                               .replace("TVGID", channel_info["tvg_id"]) \
-                                               .replace("LOGO", channel_info["logo"]) \
-                                               .replace("CHANNELID", channel_info["channel_id"]) \
-                                               .replace("CHANNELTITLE", channel_info["channel_name"])
+                if not any(channel in channel_info["channel_name"] for channel in excluded_channels):
+                    all_channels += channel_pattern.replace("GROUPTITLE", channel_info["group_title"]) \
+                                                   .replace("TVGID", channel_info["tvg_id"]) \
+                                                   .replace("LOGO", channel_info["logo"]) \
+                                                   .replace("CHANNELID", channel_info["channel_id"]) \
+                                                   .replace("CHANNELTITLE", channel_info["channel_name"])
 
     if all_channels != "":
         all_channels_kodi = all_channels.replace("acestream://", "plugin://script.module.horus?action=play&id=")
