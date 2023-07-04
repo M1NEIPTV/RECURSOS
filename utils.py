@@ -17,7 +17,7 @@ tvg_ids_logos = {'GOL MUNDIAL HD': 'https://i.postimg.cc/3ryZ9n8G/golmundial.png
                  'M+ DEPORTES 5': 'https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png',
                  'M+ DEPORTES 6': 'https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png',
                  'M+ GOLF HD': 'https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png',
-                 'M+ LaLigaTV HD': 'https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg',
+                 'M+ LaLigaTV HD': 'https://www.mundoplus.tv/wiki/_media/logos/mll.png',
                  'LaLiga SmartbankTV HD': 'https://i.postimg.cc/CKxJXggY/ligasmartbank.png',
                  'LaLiga SmartbankTV M3 HD': 'https://i.postimg.cc/4NfkryTV/ligasmartbank3.png',
                  'LaLiga SmartbankTV M2 HD': 'https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png',
