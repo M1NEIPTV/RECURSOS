@@ -27,12 +27,12 @@ tvg_ids_logos = {
     
     "M+ Golf": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
-    "M+ LaLigaTV": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ LaLigaTV 2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ LaLigaTV 3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ LaLigaTV 4": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ LaLigaTV 5": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ LaLigaTV 6": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ LaLigaTV": "https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png",
+    "M+ LaLigaTV 2": "https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png",
+    "M+ LaLigaTV 3": "https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png",
+    "M+ LaLigaTV 4": "https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png",
+    "M+ LaLigaTV 5": "https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png",
+    "M+ LaLigaTV 6": "https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png",
     
     "LaLiga SmartbankTV": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     "LaLiga SmartbankTV M2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
