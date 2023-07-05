@@ -92,7 +92,7 @@ def export_channels(channel_dict, export_file):
                                                    .replace("TVGID", channel_info["tvg_id"]) \
                                                    .replace("LOGO", channel_info["logo"]) \
                                                    .replace("CHANNELID", channel_info["channel_id"]) \
-                                                   .replace("CHANNELTITLE", channel_info["tvg_id"])
+                                                   .replace("CHANNELTITLE", "Tennis Channel" if channel_info["tvg_id"] == "I217.33395.zap2it.com" else channel_info["tvg_id"])
 
     if all_channels != "":
         all_channels_kodi = all_channels.replace("acestream://", "plugin://script.module.horus?action=play&id=")
