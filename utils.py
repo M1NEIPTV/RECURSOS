@@ -15,7 +15,7 @@ tvg_ids_logos = {
     "Eurosport 1": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
     "Eurosport 2": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
     
-    "M+ #Vamos": "https://pbs.twimg.com/media/DnPmAeEXgAEHQmr.jpg",
+    "M+ #Vamos": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
     "M+ Deportes": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     "M+ Deportes 2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
@@ -75,7 +75,7 @@ tvg_ids_logos = {
     "Sport TV3 POR": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
     # beIN ñ
     "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
-    "M+ Ellas #V": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Ellas #V": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
     # ESPN COLOMBIA
     "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
     # ESPN2 COLOMBIA
