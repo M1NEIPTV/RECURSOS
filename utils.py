@@ -130,7 +130,7 @@ def extract_group_title(channel_title):
         return "Otros"
 
 def extract_tvg_id(channel_title):
-    #title = channel_title.upper().replace("1080", "").replace("720", "")
+    title = channel_title
     resolution = ""
 
     if "1080" in channel_title:
