@@ -87,10 +87,10 @@ def export_channels(channel_dict, export_file):
     all_channels += '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"\n'
     channel_pattern = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO" ,CHANNELTITLE\nacestream://CHANNELID\n'
 
-    all_channels += channel_pattern.replace("GROUPTITLE", "") \
+    all_channels += channel_pattern.replace("GROUPTITLE", "Otros") \
                                                    .replace("TVGID", "ACTUALIZACION") \
                                                    .replace("LOGO", "https://icons.veryicon.com/png/o/commerce-shopping/online-retailers/update-7.png") \
-                                                   .replace("CHANNELID", "") \
+                                                   .replace("CHANNELID", "NULL") \
                                                    .replace("CHANNELTITLE", dt_string)
 
     for group_title in u.group_title_order:
