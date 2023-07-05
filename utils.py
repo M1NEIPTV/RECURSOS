@@ -30,7 +30,7 @@ tvg_ids_logos = {
     "LaLiga SmartbankTV M3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     "LaLiga SmartbankTV M2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
-    "M+ LaLigaTV Bar": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLigaTV Bar": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
     "M+ Liga de Campeones": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     "M+ Liga de Campeones 2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
@@ -154,6 +154,8 @@ def extract_tvg_id(channel_title):
     else:
         resolution = ""
 
+    title = title.replace("1080", "").replace("720", "")
+    
     if "BARÇA" in title or "BARCA" in title or "BARÃ§A" in title:
         return "Barça TV" + resolution
     elif "BE MAD" in title or "BEMAD" in title:
@@ -172,6 +174,12 @@ def extract_tvg_id(channel_title):
         elif "LIGA" in title:
             if "2" in title:
                 return "DAZN LaLiga 2" + resolution
+            elif "3" in title:
+                return "DAZN LaLiga 3" + resolution
+            elif "4" in title:
+                return "DAZN LaLiga 4" + resolution
+            elif "5" in title:
+                return "DAZN LaLiga 5" + resolution
             else:
                 return "DAZN LaLiga" + resolution
         else:
@@ -197,6 +205,16 @@ def extract_tvg_id(channel_title):
         return "LaLiga SmartbankTV M2" + resolution
     elif "SMARTBANK 3" in title:
         return "LaLiga SmartbankTV M3" + resolution
+    elif "SMARTBANK 4" in title:
+        return "LaLiga SmartbankTV M4" + resolution
+    elif "SMARTBANK 5" in title:
+        return "LaLiga SmartbankTV M5" + resolution
+    elif "SMARTBANK 6" in title:
+        return "LaLiga SmartbankTV M6" + resolution
+    elif "SMARTBANK 7" in title:
+        return "LaLiga SmartbankTV M7" + resolution
+    elif "SMARTBANK 8" in title:
+        return "LaLiga SmartbankTV M8" + resolution
     elif "SMARTBANK" in title or "SMARTBANCK" in title:
         return "LaLiga SmartbankTV" + resolution
     elif "# 0" in title or "#0" in title:
@@ -212,6 +230,16 @@ def extract_tvg_id(channel_title):
         and "SMARTBANK" not in title
         and "CAMPEONES" not in title
     ):
+         if "2" in title:
+            return "M+ LaLigaTV 2" + resolution
+         elif "3" in title:
+            return "M+ LaLigaTV 3" + resolution
+         elif "4" in title:
+            return "M+ LaLigaTV 4" + resolution
+         elif "5" in title:
+            return "M+ LaLigaTV 5" + resolution
+         elif "6" in title:
+            return "M+ LaLigaTV 6" + resolution
         return "M+ LaLigaTV" + resolution
     elif "DEPORTES" in title:
         if "2" in title:
