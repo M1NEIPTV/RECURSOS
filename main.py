@@ -5,13 +5,6 @@ import asyncio
 from datetime import datetime
 import pytz
 
-dt_now = datetime.now(pytz.utc)
-
-timezone = pytz.timezone('Europe/Madrid')
-dt_spain = dt_now.astimezone(timezone)
-
-dt_string = dt_spain.strftime("%d/%m/%Y %H:%M:%S")
-
 def main():
     asyncio.run(export_messages())
 
@@ -76,6 +69,13 @@ def update_channel_dict(message_content, channel_dict):
 def export_channels(channel_dict, export_file):
     channel_list = []
     excluded_channels = ["La 1", "CUATRO", "Telecinco", "BeMad", "ESPN", "Barça", "beIN", "tdp", "GOL TV", "Golf"]
+
+    dt_now = datetime.now(pytz.utc)
+
+    timezone = pytz.timezone('Europe/Madrid')
+    dt_spain = dt_now.astimezone(timezone)
+
+    dt_string = dt_spain.strftime("%d/%m/%Y %H:%M:%S")
     
     for channel_id, channel_name in channel_dict.items():
         group_title = u.extract_group_title(channel_name)
