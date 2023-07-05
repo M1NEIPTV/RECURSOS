@@ -4,7 +4,7 @@ from tools import *
 import asyncio
 from datetime import datetime
 
-dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+dt_string = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
 def main():
     asyncio.run(export_messages())
@@ -89,7 +89,7 @@ def export_channels(channel_dict, export_file):
 
     all_channels += channel_pattern.replace("GROUPTITLE", "") \
                                                    .replace("TVGID", "ACTUALIZACION") \
-                                                   .replace("LOGO", "") \
+                                                   .replace("LOGO", "https://icons.veryicon.com/png/o/commerce-shopping/online-retailers/update-7.png") \
                                                    .replace("CHANNELID", "") \
                                                    .replace("CHANNELTITLE", dt_string)
 
