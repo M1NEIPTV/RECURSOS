@@ -240,7 +240,8 @@ def extract_tvg_id(channel_title):
             return "M+ LaLigaTV 5" + resolution
          elif "6" in title:
             return "M+ LaLigaTV 6" + resolution
-        return "M+ LaLigaTV" + resolution
+         else:
+            return "M+ LaLigaTV" + resolution
     elif "DEPORTES" in title:
         if "2" in title:
             return "M+ Deportes 2" + resolution
