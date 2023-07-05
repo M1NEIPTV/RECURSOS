@@ -3,8 +3,14 @@ import re
 from tools import *
 import asyncio
 from datetime import datetime
+import pytz
 
-dt_string = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+dt_now = datetime.now(pytz.utc)
+
+timezone = pytz.timezone('Europe/Madrid')
+dt_spain = dt_now.astimezone(timezone)
+
+dt_string = dt_spain.strftime("%d/%m/%Y %H:%M:%S")
 
 def main():
     asyncio.run(export_messages())
