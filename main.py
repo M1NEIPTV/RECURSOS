@@ -2,6 +2,9 @@ import utils as u
 import re
 from tools import *
 import asyncio
+from datetime import datetime
+
+dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 
 def main():
     asyncio.run(export_messages())
@@ -83,6 +86,12 @@ def export_channels(channel_dict, export_file):
     all_channels = ""
     all_channels += '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"\n'
     channel_pattern = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO" ,CHANNELTITLE\nacestream://CHANNELID\n'
+
+    all_channels += channel_pattern.replace("GROUPTITLE", "") \
+                                                   .replace("TVGID", "ACTUALIZACION") \
+                                                   .replace("LOGO", "") \
+                                                   .replace("CHANNELID", "") \
+                                                   .replace("CHANNELTITLE", dt_string)
 
     for group_title in u.group_title_order:
         for channel_info in channel_list:
