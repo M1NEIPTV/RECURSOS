@@ -2,4 +2,4 @@ beautifulsoup4==4.11.1
 GitPython==3.1.30
 requests==2.25.1
 torpy==1.1.6
-pytz==2013b
+pytz==2023.3
