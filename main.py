@@ -78,7 +78,7 @@ def export_channels(channel_dict, export_file):
                         "logo": logo,
                         "channel_id": channel_id,
                         #"channel_name": channel_name + "  " + identif}
-                        "channel_name": channel_name}
+                        "channel_name": tvg_id}
         channel_list.append(channel_info)
         
     all_channels = ""
