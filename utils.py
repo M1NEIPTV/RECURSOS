@@ -270,6 +270,6 @@ def extract_tvg_id(channel_title):
 
 def get_logo(tvg_id):
     if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "") in tvg_ids_logos:
-        return tvg_ids_logos[tvg_id]
+        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "")]
     else:
         return ""
