@@ -130,59 +130,69 @@ def extract_group_title(channel_title):
         return "Otros"
 
 def extract_tvg_id(channel_title):
-    title = channel_title.upper().replace("1080", "").replace("720", "")
+    title = channel_title.upper().replace("1080", "FHD").replace("720", "HD")
+    resolution = ""
+
+    if "1080" in channel_title:
+        resolution = " 1080"
+    elif "720" in channel_title:
+        resolution = " 720"
+    elif "SD" in channel_title:
+        resolution = " SD"
+    else:
+        resolution = ""
 
     if "BARÇA" in title or "BARCA" in title or "BARÃ§A" in title:
-        return "Barça TV"
+        return "Barça TV" + resolution
     elif "BE MAD" in title or "BEMAD" in title:
-        return "BE MAD"
+        return "BE MAD" + resolution
     elif "CUATRO" in title:
-        return "CUATRO HD"
+        return "CUATRO" + resolution
     elif "DAZN" in title:
         if "DAZN 2" in title:
-            return "DAZN 2 HD"
+            return "DAZN 2" + resolution
         elif "DAZN 3" in title:
-            return "DAZN 3 HD"
+            return "DAZN 3" + resolution
         elif "DAZN 4" in title:
-            return "DAZN 4 HD"
+            return "DAZN 4" + resolution
         elif "F1" in title or "FORMULA" in title or "FÓRMULA" in title:
-            return "DAZN F1 HD"
+            return "DAZN F1" + resolution
         elif "LIGA" in title:
             if "2" in title:
-                return "DAZN LaLiga 2 HD"
+                return "DAZN LaLiga 2" + resolution
             else:
-                return "DAZN LaLiga HD"
+                return "DAZN LaLiga" + resolution
         else:
-            return "DAZN 1 HD"
+            return "DAZN 1" + resolution
     elif "EUROSPORT 2" in title:
-        return "EUROSPORT 2"
+        return "Eurosport 2" + resolution
     elif "EUROSPORT" in title:
-        return "EUROSPORT 1 HD"
+        return "Eurosport 1" + resolution
     elif "GOL" in title and "GOLF" not in title and "MUNDIAL" not in title:
-        return "GOL PLAY"
+        return "GOL PLAY" + resolution
     elif "MUNDIAL" in title:
         if "2 " in title:
-            return "GOL MUNDIAL 2 HD"
+            return "GOL MUNDIAL 2" + resolution
         else:
-            return "GOL MUNDIAL HD"
+            return "GOL MUNDIAL" + resolution
     elif "HISTORIA" in title:
-        return "HISTORIA"
+        return "HISTORIA" + resolution
     elif "LA 1" in title or "LA1" in title:
-        return "LA 1 HD"
+        return "LA 1" + resolution
     elif "BAR" in title and "BARÇA" not in title:
-        return "M+ LALIGATV BAR"
+        return "LaLigaTV Bar" + resolution
     elif "SMARTBANK 2" in title or "SMARTBANK M2" in title:
-        return "LaLiga SmartbankTV M2 HD"
+        return "LaLiga SmartbankTV M2" + resolution
     elif "SMARTBANK 3" in title:
-        return "LaLiga SmartbankTV M3 HD"
+        return "LaLiga SmartbankTV M3" + resolution
     elif "SMARTBANK" in title or "SMARTBANCK" in title:
-        return "LaLiga SmartbankTV HD"
+        return "LaLiga SmartbankTV" + resolution
     elif "# 0" in title or "#0" in title:
-        return "M+ #0 HD"
+        return "M+ #0" + resolution
     elif "VAMOS" in title:
-        return "M+ #VAMOS HD"
+        return "M+ #Vamos" + resolution
     elif "GOLF" in title:
-        return "M+ GOLF HD"
+        return "M+ Golf" + resolution
     elif (
         "LIGA" in title
         and "BAR" not in title
@@ -190,43 +200,45 @@ def extract_tvg_id(channel_title):
         and "SMARTBANK" not in title
         and "CAMPEONES" not in title
     ):
-        return "M+ LaLigaTV HD"
+        return "M+ LaLigaTV" + resolution
     elif "DEPORTES" in title:
         if "2" in title:
-            return "M+ DEPORTES 2 HD"
+            return "M+ Deportes 2" + resolution
         elif "3" in title:
-            return "M+ DEPORTES 3"
+            return "M+ Deportes 3" + resolution
         elif "4" in title:
-            return "M+ DEPORTES 4"
+            return "M+ Deportes 4" + resolution
         elif "5" in title:
-            return "M+ DEPORTES 5"
+            return "M+ Deportes 5" + resolution
         elif "6" in title:
-            return "M+ DEPORTES 6"
+            return "M+ Deportes 6" + resolution
+        elif "7" in title:
+            return "M+ Deportes 7" + resolution
         else:
-            return "M+ DEPORTES HD"
+            return "M+ Deportes" + resolution
     elif "CAMPEONES" in title:
         for i in ["12", "3", "4", "5", "6", "7", "8", "9", "10", "11", "2"]:
             if i in title:
-                return "M+ Liga de Campeones " + i + " HD"
-        return "M+ Liga de Campeones HD"
+                return "M+ Liga de Campeones " + i + resolution
+        return "M+ Liga de Campeones" + resolution
     elif (
         "NATIONAL" in title or "GEOGRAPHIC" in title or "NAT" in title or "GEO" in title
     ):
-        return "NAT GEO HD"
+        return "NAT GEO" + resolution
     elif "CINCO" in title or "CIRCO" in title:
-        return "TELECINCO HD"
+        return "TELECINCO" + resolution
     elif "TELEDEPORTE" in title or "TDP" in title:
-        return "TELEDEPORTE"
+        return "TELEDEPORTE" + resolution
     elif "SPORT TV 1" in title:
-        return "Sport TV1 POR HD"
+        return "Sport TV1 POR" + resolution
     elif "SPORT TV 2" in title:
-        return "Sport TV2 POR HD"
+        return "Sport TV2 POR" + resolution
     elif "SPORT TV 3" in title:
-        return "Sport TV3 POR HD"
+        return "Sport TV3 POR" + resolution
     elif "BEIN" in title:
         return "I873.76943.schedulesdirect.org"
     elif "ELLAS" in title:
-        return "M+ Ellas #V HD"
+        return "M+ Ellas #V" + resolution
     elif "ESPN COLOMBIA" in title:
         return "I249.19158.schedulesdirect.org"
     elif "ESPN 2 COLOMBIA" in title:
@@ -240,7 +252,7 @@ def extract_tvg_id(channel_title):
     elif "FOX" in title:
         return "FOX"
     elif "SETANTA" in title:
-        return "SETANTA"
+        return "SETANTA SPORTS" + resolution
     else:
         return "OTROS"
 
