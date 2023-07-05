@@ -1,56 +1,68 @@
 tvg_ids_logos = {
-    "GOL MUNDIAL HD": "https://i.postimg.cc/3ryZ9n8G/golmundial.png",
-    "GOL MUNDIAL 2 HD": "https://i.postimg.cc/3ryZ9n8G/golmundial.png",
-    "DAZN 1 HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
-    "DAZN 2 HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
-    "DAZN 3 HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
-    "DAZN 4 HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
-    "DAZN F1 HD": "https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw",
-    "DAZN LaLiga HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
-    "DAZN LaLiga 2 HD": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
-    "EUROSPORT 1 HD": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
-    "EUROSPORT 2": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
-    "M+ #VAMOS HD": "https://pbs.twimg.com/media/DnPmAeEXgAEHQmr.jpg",
-    "M+ DEPORTES HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ DEPORTES 2 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ DEPORTES 3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ DEPORTES 4": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ DEPORTES 5": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ DEPORTES 6": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ GOLF HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ LaLigaTV HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "LaLiga SmartbankTV HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "LaLiga SmartbankTV M3 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "LaLiga SmartbankTV M2 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ LALIGATV BAR": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 7 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 8 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 9 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 10 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 11 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 12 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 2 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 3 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 4 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 5 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ Liga de Campeones 6 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "M+ #0 HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "DAZN F1": "https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw",
+
+    "DAZN 1": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN 2": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN 3": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN 4": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    
+    "DAZN LaLiga": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN LaLiga 2": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    
+    "Eurosport 1": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
+    "Eurosport 2": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
+    
+    "M+ #Vamos": "https://pbs.twimg.com/media/DnPmAeEXgAEHQmr.jpg",
+    
+    "M+ Deportes": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Deportes 2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Deportes 3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Deportes 4": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Deportes 5": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Deportes 6": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Deportes 7": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    
+    "M+ Golf": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    
+    "M+ LaLigaTV": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    
+    "LaLiga SmartbankTV": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    
+    "M+ LaLigaTV Bar": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    
+    "M+ Liga de Campeones": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 4": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 5": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 6": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 7": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 8": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 9": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 10": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 11": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Liga de Campeones 12": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    
+    "M+ #0": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    
     "Barça TV": "https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",
     "BE MAD": "https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png",
-    "CUATRO HD": "https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png",
+    "CUATRO": "https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png",
     "GOL PLAY": "https://i.ibb.co/5hYsXDR/Gol.jpg",
     "HISTORIA": "https://i.postimg.cc/NGrXN3S1/historia.png",
-    "LA 1 HD": "https://img.sport-tv-guide.live/images/tv-station-la-1-838.png",
-    "NAT GEO HD": "https://i.postimg.cc/CMb7QnfM/natgeo.png",
-    "TELECINCO HD": "https://img.sport-tv-guide.live/images/stations/a907.png",
+    "LA 1": "https://img.sport-tv-guide.live/images/tv-station-la-1-838.png",
+    "NAT GEO": "https://i.postimg.cc/CMb7QnfM/natgeo.png",
+    "TELECINCO": "https://img.sport-tv-guide.live/images/stations/a907.png",
     "TELEDEPORTE": "https://i.ibb.co/thh1tKH/TDP.jpg",
-    "Sport TV1 POR HD": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
-    "Sport TV2 POR HD": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
-    "Sport TV3 POR HD": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
+    
+    "Sport TV1 POR": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
+    "Sport TV2 POR": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
+    "Sport TV3 POR": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
     # beIN ñ
     "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
-    "M+ Ellas #V HD": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Ellas #V": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     # ESPN COLOMBIA
     "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
     # ESPN2 COLOMBIA
@@ -63,7 +75,7 @@ tvg_ids_logos = {
     "NBA": "https://i.imgur.com/4QrPlos.png",
     # TENNIS CHANNEL
     "I217.33395.zap2it.com": "https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg",
-    "SETANTA": "https://play-lh.googleusercontent.com/mGMq60f8H_PKAGAy5AkYne4UJf9ATuac-zmJL6_jrUsIR7HnvTcHGCD0zb-g3lNuWGQ",
+    "SETANTA SPORTS": "https://play-lh.googleusercontent.com/mGMq60f8H_PKAGAy5AkYne4UJf9ATuac-zmJL6_jrUsIR7HnvTcHGCD0zb-g3lNuWGQ",
     "OTROS": "https://i.imgur.com/U4w7Bgy.png",
 }
 
@@ -130,7 +142,7 @@ def extract_group_title(channel_title):
         return "Otros"
 
 def extract_tvg_id(channel_title):
-    title = channel_title
+    title = channel_title.upper()
     resolution = ""
 
     if "1080" in channel_title:
@@ -257,7 +269,7 @@ def extract_tvg_id(channel_title):
         return "OTROS"
 
 def get_logo(tvg_id):
-    if tvg_id in tvg_ids_logos:
+    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "") in tvg_ids_logos:
         return tvg_ids_logos[tvg_id]
     else:
         return ""
