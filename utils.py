@@ -43,7 +43,7 @@ tvg_ids_logos = {
     "LaLiga SmartbankTV M7": "https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png",
     "LaLiga SmartbankTV M8": "https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png",
     
-    "LaLigaTV Bar": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLigaTV Bar": "https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png"
     
     "M+ Liga de Campeones": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     "M+ Liga de Campeones 2": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
