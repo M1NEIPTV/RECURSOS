@@ -66,7 +66,7 @@ def update_channel_dict(message_content, channel_dict):
 
 def export_channels(channel_dict, export_file):
     channel_list = []
-    excluded_channels = ["La 1", "CUATRO", "Telecinco", "BeMad", "ESPN", "Barça", "beIN", "tdp", "GOL TV"]
+    excluded_channels = ["La 1", "CUATRO", "Telecinco", "BeMad", "ESPN", "Barça", "beIN", "tdp", "GOL TV", "Golf mex"]
     
     for channel_id, channel_name in channel_dict.items():
         group_title = u.extract_group_title(channel_name)
