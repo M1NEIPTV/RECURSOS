@@ -8,6 +8,9 @@ tvg_ids_logos = {
     
     "DAZN LaLiga": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
     "DAZN LaLiga 2": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN LaLiga 3": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN LaLiga 4": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN LaLiga 5": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
     
     "Eurosport 1": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
     "Eurosport 2": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
@@ -25,10 +28,20 @@ tvg_ids_logos = {
     "M+ Golf": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
     "M+ LaLigaTV": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ LaLigaTV 2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ LaLigaTV 3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ LaLigaTV 4": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ LaLigaTV 5": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ LaLigaTV 6": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
     "LaLiga SmartbankTV": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    "LaLiga SmartbankTV M3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     "LaLiga SmartbankTV M2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M3": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M4": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M5": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M6": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M7": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "LaLiga SmartbankTV M8": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
     "LaLigaTV Bar": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
