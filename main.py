@@ -15,7 +15,7 @@ if not server.available:
     server = Server(host='127.0.0.1', port=6878)
 
 # Start a stream using an acestream channel ID
-acestream_id = 'ff36fce40a7d2042e327eaf9f215a1e9cb622b56'
+acestream_id = '5789ca155323664edd293b848606688edf803f4d'
 stream = Stream(server, id=acestream_id)
 stream.start()
 
