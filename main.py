@@ -111,7 +111,7 @@ def export_channels(channel_dict, export_file):
                                                    .replace("CHANNELTITLE", "Tennis Channel" if channel_info["tvg_id"] == "I217.33395.zap2it.com" else channel_info["tvg_id"])
 
     if all_channels != "":
-        all_channels_kodi = all_channels.replace("acestream://", "plugin://script.module.horus?action=play&id=")
+        all_channels_kodi = all_channels.replace("acestream://", "plugin://script.module.horus?action=play&id=").replace("https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml", "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color1.xml.gz")
         all_channels_get = all_channels.replace("acestream://", "http://127.0.0.1:6878/ace/getstream?id=")
 
         with open(export_file, "w") as f:
