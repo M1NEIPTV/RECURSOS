@@ -4,6 +4,16 @@ from tools import *
 import asyncio
 from datetime import datetime
 import pytz
+import acestream
+
+acestream.init()
+
+status = acestream.get_status('acestream://5789ca155323664edd293b848606688edf803f4d')
+
+if status['status'] == 'dl':
+    print('AceStream ID is active')
+else:
+    print('AceStream ID is not active')
 
 def main():
     asyncio.run(export_messages())
