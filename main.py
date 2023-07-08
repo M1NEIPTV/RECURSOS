@@ -81,10 +81,12 @@ def export_channels(channel_dict, export_file):
         group_title = u.extract_group_title(channel_name)
         tvg_id = u.extract_tvg_id(channel_name)
         logo = u.get_logo(tvg_id)
+        logo_kodi = u.get_logo_kodi(tvg_id)
         identif = (channel_id[0:4])
         channel_info = {"group_title": group_title,
                         "tvg_id": tvg_id,
                         "logo": logo,
+                        "logo_kodi": logo_kodi,
                         "channel_id": channel_id,
                         "channel_name": channel_name + "  " + identif}
         channel_list.append(channel_info)
@@ -110,8 +112,28 @@ def export_channels(channel_dict, export_file):
                                                    .replace("CHANNELID", channel_info["channel_id"]) \
                                                    .replace("CHANNELTITLE", "Tennis Channel" if channel_info["tvg_id"] == "I217.33395.zap2it.com" else channel_info["tvg_id"])
 
+    all_channels_kodi = ""
+    all_channels_kodi += '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color1.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"\n'
+    channel_pattern_kodi = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO" ,CHANNELTITLE\nplugin://script.module.horus?action=play&id=CHANNELID\n'
+
+    all_channels_kodi += channel_pattern_kodi.replace("GROUPTITLE", "Otros") \
+                                                   .replace("TVGID", "ACTUALIZACION") \
+                                                   .replace("LOGO", "https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png") \
+                                                   .replace("CHANNELID", "NULL") \
+                                                   .replace("CHANNELTITLE", dt_string) \
+                                                   .replace("plugin://script.module.horus?action=play&id=", "")
+
+    for group_title in u.group_title_order:
+        for channel_info in channel_list:
+            if channel_info["group_title"] == group_title:
+                if not any(channel in channel_info["channel_name"] for channel in excluded_channels):
+                    all_channels_kodi += channel_pattern_kodi.replace("GROUPTITLE", channel_info["group_title"]) \
+                                                   .replace("TVGID", channel_info["tvg_id"]) \
+                                                   .replace("LOGO", channel_info["logo_kodi"]) \
+                                                   .replace("CHANNELID", channel_info["channel_id"]) \
+                                                   .replace("CHANNELTITLE", "Tennis Channel" if channel_info["tvg_id"] == "I217.33395.zap2it.com" else channel_info["tvg_id"])
+
     if all_channels != "":
-        all_channels_kodi = all_channels.replace("acestream://", "plugin://script.module.horus?action=play&id=").replace("https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml", "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color1.xml.gz")
         all_channels_get = all_channels.replace("acestream://", "http://127.0.0.1:6878/ace/getstream?id=")
 
         with open(export_file, "w") as f:
