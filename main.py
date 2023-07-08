@@ -4,29 +4,6 @@ from tools import *
 import asyncio
 from datetime import datetime
 import pytz
-from acestream.server import Server
-from acestream.stream import Stream
-
-# Connect to a remote server
-server = Server(host='streams.com', port=6880)
-
-# If the remote server is not available, connect to a local server
-if not server.available:
-    server = Server(host='127.0.0.1', port=6878)
-
-# Start a stream using an acestream channel ID
-acestream_id = '5789ca155323664edd293b848606688edf803f4d'
-stream = Stream(server, id=acestream_id)
-stream.start()
-
-# Check if the stream is working
-if stream.playback_url:
-    print(True)
-else:
-    print(False)
-
-# Stop the stream
-stream.stop()
 
 def main():
     asyncio.run(export_messages())
