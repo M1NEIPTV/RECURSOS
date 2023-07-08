@@ -412,7 +412,7 @@ def get_logo(tvg_id):
         return ""
 
 def get_logo_kodi(tvg_id):
-    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "") in tvg_ids_logos:
-        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "")]
+    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "") in tvg_ids_logos_kodi:
+        return tvg_ids_logos_kodi[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "")]
     else:
         return ""
