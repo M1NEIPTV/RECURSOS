@@ -118,7 +118,7 @@ def export_channels(channel_dict, export_file):
 
     all_channels_kodi += channel_pattern_kodi.replace("GROUPTITLE", "Otros") \
                                                    .replace("TVGID", "ACTUALIZACION") \
-                                                   .replace("LOGO", "https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png") \
+                                                   .replace("LOGO", "https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png") \
                                                    .replace("CHANNELID", "NULL") \
                                                    .replace("CHANNELTITLE", dt_string) \
                                                    .replace("plugin://script.module.horus?action=play&id=", "")
