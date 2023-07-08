@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color1.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,08/07/2023 19:17:52
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,08/07/2023 19:52:41
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1 FHD
 plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf803f4d
@@ -119,9 +119,9 @@ plugin://script.module.horus?action=play&id=cf6249379184d88a61f9db617341c6b6e6ab
 plugin://script.module.horus?action=play&id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3" tvg-logo="https://www.dl.dropboxusercontent.com/s/zdu2gaezkhmpvdf/LaLigaHypermotion3.png" ,LaLiga SmartbankTV M3
 plugin://script.module.horus?action=play&id=59ba45b79152e4599144177b234f6491fc19db53
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M4" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV M4
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M4" tvg-logo="https://www.dl.dropboxusercontent.com/s/25rrtamwvp3pdoq/LaLigaHypermotion4.png" ,LaLiga SmartbankTV M4
 plugin://script.module.horus?action=play&id=2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M5" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV M5
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M5" tvg-logo="https://www.dl.dropboxusercontent.com/s/a19a8g8lv6a4i0m/LaLigaHypermotion5.png" ,LaLiga SmartbankTV M5
 plugin://script.module.horus?action=play&id=a1146358aa50c99c887108b17f62f9264186a16a
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M6" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV M6
 plugin://script.module.horus?action=play&id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
