@@ -170,7 +170,7 @@ tvg_ids_logos_kodi = {
     "Sport TV3 POR": "https://www.dl.dropboxusercontent.com/s/e808esla5ae9oup/Sport%20TV3.png",
     # beIN ñ
     "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
-    "M+ Ellas #V": "https://www.dl.dropboxusercontent.com/s/lujen53hyw4s3v9/Ellas.png?dl=0",
+    "M+ Ellas #V": "https://www.dl.dropboxusercontent.com/s/lujen53hyw4s3v9/Ellas.png",
     # ESPN COLOMBIA
     "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
     # ESPN2 COLOMBIA
