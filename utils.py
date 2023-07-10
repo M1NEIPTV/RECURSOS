@@ -198,7 +198,7 @@ group_title_order = [
     "DAZN",
     "M+ Deportes",
     "M+ LaLiga BAR",
-    "M+ LaLiga Smartbank",
+    "M+ LaLiga Hypermotion",
     "EuroSport",
     "Otros deportes",
     "Otros",
