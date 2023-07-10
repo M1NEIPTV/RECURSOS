@@ -225,7 +225,7 @@ def extract_group_title(channel_title):
     ):
         return "M+ LaLiga"
     elif "SMARTBANK" in title or "SMARTBANCK" in title:
-        return "M+ LaLiga Smartbank"
+        return "M+ LaLiga Hypermotion"
     elif "TV BAR" in title:
         return "M+ LaLiga BAR"
     elif "CAMPEONES" in title:
@@ -308,23 +308,23 @@ def extract_tvg_id(channel_title):
     elif "LA 1" in title or "LA1" in title:
         return "LA 1" + resolution
     elif "BAR" in title and "BARÇA" not in title:
-        return "LaLigaTV Bar" + resolution
+        return "LaLiga TV BAR" + resolution
     elif "SMARTBANK 2" in title or "SMARTBANK M2" in title:
-        return "LaLiga SmartbankTV M2" + resolution
+        return "LaLiga TV Hypermotion 2" + resolution
     elif "SMARTBANK 3" in title:
-        return "LaLiga SmartbankTV M3" + resolution
+        return "LaLiga TV Hypermotion 3" + resolution
     elif "SMARTBANK 4" in title:
-        return "LaLiga SmartbankTV M4" + resolution
+        return "LaLiga TV Hypermotion 4" + resolution
     elif "SMARTBANK 5" in title:
-        return "LaLiga SmartbankTV M5" + resolution
+        return "LaLiga TV Hypermotion 5" + resolution
     elif "SMARTBANK 6" in title:
-        return "LaLiga SmartbankTV M6" + resolution
+        return "LaLiga TV Hypermotion 6" + resolution
     elif "SMARTBANK 7" in title:
-        return "LaLiga SmartbankTV M7" + resolution
+        return "LaLiga TV Hypermotion 7" + resolution
     elif "SMARTBANK 8" in title:
-        return "LaLiga SmartbankTV M8" + resolution
+        return "LaLiga TV Hypermotion 8" + resolution
     elif "SMARTBANK" in title or "SMARTBANCK" in title:
-        return "LaLiga SmartbankTV" + resolution
+        return "LaLiga TV Hypermotion" + resolution
     elif "# 0" in title or "#0" in title:
         return "M+ #0" + resolution
     elif "VAMOS" in title:
@@ -339,17 +339,17 @@ def extract_tvg_id(channel_title):
         and "CAMPEONES" not in title
     ):
          if "2" in title:
-            return "M+ LaLigaTV 2" + resolution
+            return "M+ LaLiga TV 2" + resolution
          elif "3" in title:
-            return "M+ LaLigaTV 3" + resolution
+            return "M+ LaLiga TV 3" + resolution
          elif "4" in title:
-            return "M+ LaLigaTV 4" + resolution
+            return "M+ LaLiga TV 4" + resolution
          elif "5" in title:
-            return "M+ LaLigaTV 5" + resolution
+            return "M+ LaLiga TV 5" + resolution
          elif "6" in title:
-            return "M+ LaLigaTV 6" + resolution
+            return "M+ LaLiga TV 6" + resolution
          else:
-            return "M+ LaLigaTV" + resolution
+            return "M+ LaLiga TV" + resolution
     elif "DEPORTES" in title:
         if "2" in title:
             return "M+ Deportes 2" + resolution
