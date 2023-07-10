@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,10/07/2023 21:46:06
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,10/07/2023 21:55:53
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 FHD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 FHD
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
@@ -109,6 +109,26 @@ http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLiga TV BAR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,LaLiga TV BAR FHD
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion FHD
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion HD
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 2 HD
+http://127.0.0.1:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 3
+http://127.0.0.1:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 4
+http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 5
+http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 6
+http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 7
+http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga TV Hypermotion 8
+http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 FHD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2 FHD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 2 FHD
