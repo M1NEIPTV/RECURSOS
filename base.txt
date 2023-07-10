@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,10/07/2023 21:16:06
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,10/07/2023 21:46:06
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 FHD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 FHD
 acestream://5789ca155323664edd293b848606688edf803f4d
@@ -7,23 +7,23 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 HD
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV FHD
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV HD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV HD
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV 2 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV 2 FHD
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV 2 HD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV 2 HD
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 3 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV 3 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV 3 FHD
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 4 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV 4 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV 4 FHD
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 5 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV 5 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 5 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV 5 FHD
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 6 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLigaTV 6 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 6 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV 6 FHD
 acestream://c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png" ,DAZN LaLiga FHD
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
@@ -107,28 +107,8 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7 FHD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg" ,M+ Deportes 7 FHD
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLigaTV Bar FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,LaLigaTV Bar FHD
+#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLiga TV BAR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,LaLiga TV BAR FHD
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV FHD
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV HD
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M2 FHD
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M2 HD
-acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M3
-acestream://59ba45b79152e4599144177b234f6491fc19db53
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M4" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M4
-acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M5" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M5
-acestream://a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M6" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M6
-acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M7" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M7
-acestream://446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M8" tvg-logo="https://www.dl.dropboxusercontent.com/s/gaxx5f8wk28bibs/M%2B%20LaLigaTV%20HyperMotion.png" ,LaLiga SmartbankTV M8
-acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 FHD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 1 FHD
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2 FHD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 2 FHD

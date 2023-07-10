@@ -5,23 +5,23 @@ plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf80
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1 HD
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLigaTV FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV FHD
 plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLigaTV FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV FHD
 plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLigaTV HD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV HD
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5zn0t289cys9xaw/MLL2.png" ,M+ LaLigaTV 2 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5zn0t289cys9xaw/MLL2.png" ,M+ LaLiga TV 2 FHD
 plugin://script.module.horus?action=play&id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5zn0t289cys9xaw/MLL2.png" ,M+ LaLigaTV 2 HD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5zn0t289cys9xaw/MLL2.png" ,M+ LaLiga TV 2 HD
 plugin://script.module.horus?action=play&id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 3 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/9esmglg1g70epjv/MLL3.png" ,M+ LaLigaTV 3 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/9esmglg1g70epjv/MLL3.png" ,M+ LaLiga TV 3 FHD
 plugin://script.module.horus?action=play&id=4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 4 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/zz1qv17vtemzvgv/MLL4.png" ,M+ LaLigaTV 4 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/zz1qv17vtemzvgv/MLL4.png" ,M+ LaLiga TV 4 FHD
 plugin://script.module.horus?action=play&id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 5 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/4boi568mbcb3826/MLL5.png" ,M+ LaLigaTV 5 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 5 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/4boi568mbcb3826/MLL5.png" ,M+ LaLiga TV 5 FHD
 plugin://script.module.horus?action=play&id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 6 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5ztt3ac55ezqvsp/MLL6.png" ,M+ LaLigaTV 6 FHD
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 6 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5ztt3ac55ezqvsp/MLL6.png" ,M+ LaLiga TV 6 FHD
 plugin://script.module.horus?action=play&id=c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/x7cacw7iuvijoqh/DAZNLIGA.png" ,DAZN LaLiga FHD
 plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
@@ -105,28 +105,8 @@ plugin://script.module.horus?action=play&id=b1e5abc48195b7ca9b2ee1b352e790eb9f72
 plugin://script.module.horus?action=play&id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/kwxkchcccgxr4uj/MD7.png" ,M+ Deportes 7 FHD
 plugin://script.module.horus?action=play&id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLigaTV Bar FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gocoqy93u2e9acw/MovistarBar.png" ,LaLigaTV Bar FHD
+#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLiga TV BAR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/gocoqy93u2e9acw/MovistarBar.png" ,LaLiga TV BAR FHD
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV FHD
-plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV HD
-plugin://script.module.horus?action=play&id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/1ia6x6a4kd1z5sd/LaLigaHypermotion2.png" ,LaLiga SmartbankTV M2 FHD
-plugin://script.module.horus?action=play&id=cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/1ia6x6a4kd1z5sd/LaLigaHypermotion2.png" ,LaLiga SmartbankTV M2 HD
-plugin://script.module.horus?action=play&id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3" tvg-logo="https://www.dl.dropboxusercontent.com/s/zdu2gaezkhmpvdf/LaLigaHypermotion3.png" ,LaLiga SmartbankTV M3
-plugin://script.module.horus?action=play&id=59ba45b79152e4599144177b234f6491fc19db53
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M4" tvg-logo="https://www.dl.dropboxusercontent.com/s/25rrtamwvp3pdoq/LaLigaHypermotion4.png" ,LaLiga SmartbankTV M4
-plugin://script.module.horus?action=play&id=2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M5" tvg-logo="https://www.dl.dropboxusercontent.com/s/a19a8g8lv6a4i0m/LaLigaHypermotion5.png" ,LaLiga SmartbankTV M5
-plugin://script.module.horus?action=play&id=a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M6" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV M6
-plugin://script.module.horus?action=play&id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M7" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV M7
-plugin://script.module.horus?action=play&id=446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M8" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga SmartbankTV M8
-plugin://script.module.horus?action=play&id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/jmz8fdvq1pebg6o/EU1.png" ,Eurosport 1 FHD
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/abs6w0jwnfrm1p6/EU2.png" ,Eurosport 2 FHD
@@ -143,5 +123,5 @@ plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f59076
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Otros" tvg-id="M+ #0 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/w11bgdzpklzmxrm/0.png" ,M+ #0 FHD
 plugin://script.module.horus?action=play&id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,10/07/2023 21:16:06
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,10/07/2023 21:46:06
 NULL
