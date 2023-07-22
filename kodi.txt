@@ -143,5 +143,5 @@ plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f59076
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Otros" tvg-id="M+ #0 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/w11bgdzpklzmxrm/0.png" ,M+ #0 FHD
 plugin://script.module.horus?action=play&id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,22/07/2023 07:16:55
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,22/07/2023 08:21:24
 NULL
