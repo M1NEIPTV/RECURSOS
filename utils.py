@@ -57,6 +57,7 @@ tvg_ids_logos = {
     "M+ Liga de Campeones 10": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     "M+ Liga de Campeones 11": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     "M+ Liga de Campeones 12": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Champions Tour": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     
     "M+ #0": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
@@ -369,7 +370,7 @@ def extract_tvg_id(channel_title):
         for i in ["12", "3", "4", "5", "6", "7", "8", "9", "10", "11", "2"]:
             if i in title:
                 if i is "2":
-                    return "M+ Champions Tour"
+                    return "M+ Champions Tour" + resolution
                 else:
                     return "M+ Liga de Campeones " + i + resolution
         return "M+ Liga de Campeones" + resolution
