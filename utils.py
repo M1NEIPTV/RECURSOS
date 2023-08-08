@@ -368,8 +368,7 @@ def extract_tvg_id(channel_title):
     elif "CAMPEONES" in title:
         for i in ["12", "3", "4", "5", "6", "7", "8", "9", "10", "11", "2"]:
             if i in title:
-                else:
-                    return "M+ Liga de Campeones " + i + resolution
+                return "M+ Liga de Campeones " + i + resolution
         return "M+ Liga de Campeones" + resolution
     elif (
         "NATIONAL" in title or "GEOGRAPHIC" in title or "NAT" in title or "GEO" in title
