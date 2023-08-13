@@ -328,7 +328,7 @@ def extract_tvg_id(channel_title):
     elif "# 0" in title or "#0" in title:
         return "M+ #0" + resolution
     elif "VAMOS" in title:
-        return "M+ #Vamos" + resolution
+        return "M+ Vamos" + resolution
     elif "GOLF" in title:
         return "M+ Golf" + resolution
     elif (
@@ -387,7 +387,7 @@ def extract_tvg_id(channel_title):
     elif "BEIN" in title:
         return "I873.76943.schedulesdirect.org"
     elif "ELLAS" in title:
-        return "M+ Ellas #V" + resolution
+        return "M+ Ellas Vamos" + resolution
     elif "ESPN COLOMBIA" in title:
         return "I249.19158.schedulesdirect.org"
     elif "ESPN 2 COLOMBIA" in title:
