@@ -15,7 +15,7 @@ tvg_ids_logos = {
     "Eurosport 1": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
     "Eurosport 2": "https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0",
     
-    "M+ #Vamos": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "M+ Vamos": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
     "M+ Deportes": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     "M+ Deportes 2": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
@@ -58,7 +58,7 @@ tvg_ids_logos = {
     "M+ Liga de Campeones 11": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     "M+ Liga de Campeones 12": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     
-    "M+ #0": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
+    "Movistar Plus+": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
     "Barça TV": "https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",
     "BE MAD": "https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png",
@@ -75,7 +75,7 @@ tvg_ids_logos = {
     "Sport TV3 POR": "https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs",
     # beIN ñ
     "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
-    "M+ Ellas #V": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "M+ Ellas Vamos": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
     # ESPN COLOMBIA
     "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
     # ESPN2 COLOMBIA
@@ -325,8 +325,8 @@ def extract_tvg_id(channel_title):
         return "LaLiga TV Hypermotion 8" + resolution
     elif "SMARTBANK" in title or "SMARTBANCK" in title:
         return "LaLiga TV Hypermotion" + resolution
-    elif "# 0" in title or "#0" in title:
-        return "M+ #0" + resolution
+    elif "Plus" in title:
+        return "Movistar Plus+" + resolution
     elif "VAMOS" in title:
         return "M+ Vamos" + resolution
     elif "GOLF" in title:
