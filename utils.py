@@ -325,7 +325,7 @@ def extract_tvg_id(channel_title):
         return "LaLiga TV Hypermotion 8" + resolution
     elif "SMARTBANK" in title or "SMARTBANCK" in title:
         return "LaLiga TV Hypermotion" + resolution
-    elif "Plus" in title:
+    elif "M.Plus" in title:
         return "Movistar Plus+" + resolution
     elif "VAMOS" in title:
         return "M+ Vamos" + resolution
