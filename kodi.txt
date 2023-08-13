@@ -83,11 +83,11 @@ plugin://script.module.horus?action=play&id=7aa402bab9fff43258fbcf401881a39475f3
 plugin://script.module.horus?action=play&id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/mxb9cc8kurvyj8l/DAZN4.png" ,DAZN 4 FHD
 plugin://script.module.horus?action=play&id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #Vamos FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/y2amoq22l37itmt/%23Vamos.png" ,M+ #Vamos FHD
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos FHD" tvg-logo="" ,M+ Vamos FHD
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #Vamos HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/y2amoq22l37itmt/%23Vamos.png" ,M+ #Vamos HD
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="" ,M+ Vamos HD
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas #V FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/lujen53hyw4s3v9/Ellas.png" ,M+ Ellas #V FHD
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos FHD" tvg-logo="" ,M+ Ellas Vamos FHD
 plugin://script.module.horus?action=play&id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/4et9nchmk7vghee/MD.png" ,M+ Deportes FHD
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
@@ -143,7 +143,5 @@ plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f59076
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,OTROS
 plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="Otros" tvg-id="M+ #0 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/w11bgdzpklzmxrm/0.png" ,M+ #0 FHD
-plugin://script.module.horus?action=play&id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,13/08/2023 10:19:01
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,13/08/2023 11:14:47
 NULL
