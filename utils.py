@@ -244,6 +244,7 @@ def extract_group_title(channel_title):
         or "ESPN" in title
         or "SETENTA" in title
         or "EUROSPORT" in title
+        or "PLUS" in title
     ):
         return "Otros deportes"
     else:
