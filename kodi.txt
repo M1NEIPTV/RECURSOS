@@ -127,6 +127,8 @@ plugin://script.module.horus?action=play&id=7a9bb1b9cccb759c44ed84f3c1283922e685
 plugin://script.module.horus?action=play&id=446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png" ,LaLiga TV Hypermotion 8
 plugin://script.module.horus?action=play&id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Movistar Plus+ FHD" tvg-logo="" ,Movistar Plus+ FHD
+plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/jmz8fdvq1pebg6o/EU1.png" ,Eurosport 1 FHD
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/abs6w0jwnfrm1p6/EU2.png" ,Eurosport 2 FHD
@@ -141,9 +143,5 @@ plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee1
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SETANTA SPORTS FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/yodhlwwwtrk5ej7/Setanta.png" ,SETANTA SPORTS FHD
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="La2" tvg-logo="" ,La2
-plugin://script.module.horus?action=play&id=60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1 group-title="Otros" tvg-id="Movistar Plus+ FHD" tvg-logo="" ,Movistar Plus+ FHD
-plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,17/08/2023 23:36:42
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,17/08/2023 23:41:22
 NULL
