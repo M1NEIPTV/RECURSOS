@@ -143,5 +143,5 @@ plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee1
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SETANTA SPORTS FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/yodhlwwwtrk5ej7/Setanta.png" ,SETANTA SPORTS FHD
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,21/08/2023 05:18:10
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,21/08/2023 06:21:26
 NULL
