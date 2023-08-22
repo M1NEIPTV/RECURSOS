@@ -44,7 +44,7 @@ plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/7q6ovz7ciof8kfm/MLC.png" ,M+ Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/7q6ovz7ciof8kfm/MLC.png" ,M+ Liga de Campeones HD
-plugin://script.module.horus?action=play&id=90beb42e9e276854348bc91a9ff3c3e46c617495
+plugin://script.module.horus?action=play&id=e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/xjkxyrxexvyh5oa/MLC2.png" ,M+ Liga de Campeones 2 FHD
 plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/xjkxyrxexvyh5oa/MLC2.png" ,M+ Liga de Campeones 2 HD
@@ -143,5 +143,5 @@ plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee1
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SETANTA SPORTS FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/yodhlwwwtrk5ej7/Setanta.png" ,SETANTA SPORTS FHD
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,22/08/2023 19:15:35
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,22/08/2023 20:21:57
 NULL

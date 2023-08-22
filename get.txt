@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,22/08/2023 19:15:35
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,22/08/2023 20:21:57
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 FHD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 FHD
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
@@ -46,7 +46,7 @@ http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones FHD
 http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones HD
-http://127.0.0.1:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones 2 HD
