@@ -5,6 +5,14 @@ plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf80
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1 HD
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL" tvg-logo="" ,GOL MUNDIAL
+plugin://script.module.horus?action=play&id=78384a676407784df944243eb2f75d937fbcc253
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL" tvg-logo="" ,GOL MUNDIAL
+plugin://script.module.horus?action=play&id=52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL" tvg-logo="" ,GOL MUNDIAL
+plugin://script.module.horus?action=play&id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
+#EXTINF:-1 group-title="GOL MUNDIAL 2" tvg-id="GOL MUNDIAL" tvg-logo="" ,GOL MUNDIAL
+plugin://script.module.horus?action=play&id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV FHD
 plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV FHD
@@ -143,5 +151,5 @@ plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee1
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SETANTA SPORTS FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/yodhlwwwtrk5ej7/Setanta.png" ,SETANTA SPORTS FHD
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,26/08/2023 00:16:48
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,26/08/2023 01:18:01
 NULL
