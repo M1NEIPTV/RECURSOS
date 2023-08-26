@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,26/08/2023 11:42:24
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,26/08/2023 11:46:36
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 FHD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 FHD
 acestream://5789ca155323664edd293b848606688edf803f4d
@@ -7,13 +7,13 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 HD
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 1" tvg-logo="https://static.golmundial.com/assets/shared/logos/courtside/golmundial-white.svg" ,Gol Mundial 1
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 1" tvg-logo="https://static.golmundial.com/assets/shared/icons/meta-image.jpg" ,Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 2" tvg-logo="https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV" ,Gol Mundial 2
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 2" tvg-logo="https://static.golmundial.com/assets/shared/icons/meta-image.jpg" ,Gol Mundial 2
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 3" tvg-logo="https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV" ,Gol Mundial 3
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 3" tvg-logo="https://static.golmundial.com/assets/shared/icons/meta-image.jpg" ,Gol Mundial 3
 acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 4" tvg-logo="https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV" ,Gol Mundial 4
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 4" tvg-logo="https://static.golmundial.com/assets/shared/icons/meta-image.jpg" ,Gol Mundial 4
 acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
