@@ -89,10 +89,10 @@ tvg_ids_logos = {
     # TENNIS CHANNEL
     "I217.33395.zap2it.com": "https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg",
     "SETANTA SPORTS": "https://play-lh.googleusercontent.com/mGMq60f8H_PKAGAy5AkYne4UJf9ATuac-zmJL6_jrUsIR7HnvTcHGCD0zb-g3lNuWGQ",
-    "Gol Mundial 1": "https://pbs.twimg.com/profile_images/1693747769851232257/meLYo2BI_400x400.jpg",
-    "Gol Mundial 2": "https://pbs.twimg.com/profile_images/1693747769851232257/meLYo2BI_400x400.jpg",
-    "Gol Mundial 3": "https://pbs.twimg.com/profile_images/1693747769851232257/meLYo2BI_400x400.jpg",
-    "Gol Mundial 4": "https://pbs.twimg.com/profile_images/1693747769851232257/meLYo2BI_400x400.jpg",
+    "Gol Mundial 1": "https://www.dropbox.com/scl/fi/vkh6ol5jcxl1rr38oezyo/FIBA.png?rlkey=8ii2dqakuk8ed1a2eoq2yl76i&raw=1#",
+    "Gol Mundial 2": "https://www.dropbox.com/scl/fi/vkh6ol5jcxl1rr38oezyo/FIBA.png?rlkey=8ii2dqakuk8ed1a2eoq2yl76i&raw=1",
+    "Gol Mundial 3": "https://www.dropbox.com/scl/fi/vkh6ol5jcxl1rr38oezyo/FIBA.png?rlkey=8ii2dqakuk8ed1a2eoq2yl76i&raw=1",
+    "Gol Mundial 4": "https://www.dropbox.com/scl/fi/vkh6ol5jcxl1rr38oezyo/FIBA.png?rlkey=8ii2dqakuk8ed1a2eoq2yl76i&raw=1",
     "OTROS": "https://i.imgur.com/U4w7Bgy.png",
 }
 
