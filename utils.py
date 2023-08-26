@@ -405,7 +405,7 @@ def extract_tvg_id(channel_title):
     elif "SETANTA" in title:
         return "SETANTA SPORTS" + resolution
     elif "MUNDIAL" in title:
-        return title
+        return channel_title
     else:
         return channel_title
 
