@@ -20,9 +20,9 @@ plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a7
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV HD
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5zn0t289cys9xaw/MLL2.png" ,M+ LaLiga TV 2 FHD
-plugin://script.module.horus?action=play&id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+plugin://script.module.horus?action=play&id=26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/5zn0t289cys9xaw/MLL2.png" ,M+ LaLiga TV 2 HD
-plugin://script.module.horus?action=play&id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+plugin://script.module.horus?action=play&id=80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/9esmglg1g70epjv/MLL3.png" ,M+ LaLiga TV 3 FHD
 plugin://script.module.horus?action=play&id=4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/zz1qv17vtemzvgv/MLL4.png" ,M+ LaLiga TV 4 FHD
@@ -151,5 +151,5 @@ plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee1
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SETANTA SPORTS FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/yodhlwwwtrk5ej7/Setanta.png" ,SETANTA SPORTS FHD
 plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,26/08/2023 20:20:17
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,26/08/2023 21:14:10
 NULL
