@@ -89,6 +89,10 @@ tvg_ids_logos = {
     # TENNIS CHANNEL
     "I217.33395.zap2it.com": "https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg",
     "SETANTA SPORTS": "https://play-lh.googleusercontent.com/mGMq60f8H_PKAGAy5AkYne4UJf9ATuac-zmJL6_jrUsIR7HnvTcHGCD0zb-g3lNuWGQ",
+    "Gol Mundial 1": "https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV",
+    "Gol Mundial 2": "https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV",
+    "Gol Mundial 3": "https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV",
+    "Gol Mundial 4": "https://play-lh.googleusercontent.com/QPk8g0v2QWvklfTXb2sVd5FeBtBCVe0JjHe1rdmyZVg23RTlQ3FxHsPxbIw7Sv2QNdYV",
     "OTROS": "https://i.imgur.com/U4w7Bgy.png",
 }
 
