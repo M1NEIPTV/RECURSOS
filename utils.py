@@ -194,8 +194,6 @@ tvg_ids_logos_kodi = {
 group_title_order = [
     "DAZN F1",
     "GOL MUNDIAL",
-    "GOL MUNDIAL 2",
-    "manuK0S",
     "M+ LaLiga",
     "DAZN LaLiga",
     "M+ Champions",
@@ -300,11 +298,6 @@ def extract_tvg_id(channel_title):
         return "Eurosport 1" + resolution
     elif "GOL" in title and "GOLF" not in title and "MUNDIAL" not in title:
         return "GOL PLAY" + resolution
-    elif "MUNDIAL" in title:
-        if "2 " in title:
-            return "GOL MUNDIAL 2" + resolution
-        else:
-            return "GOL MUNDIAL" + resolution
     elif "HISTORIA" in title:
         return "HISTORIA" + resolution
     elif "LA 1" in title or "LA1" in title:
