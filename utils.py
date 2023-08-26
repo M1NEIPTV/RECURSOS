@@ -231,10 +231,7 @@ def extract_group_title(channel_title):
     elif "CAMPEONES" in title:
         return "M+ Champions"
     elif "MUNDIAL" in title:
-        if "2" in title:
-            return "GOL MUNDIAL 2"
-        else:
-            return "GOL MUNDIAL"
+        return "GOL MUNDIAL"
     elif (
         "GOL" in title
         or "TDP" in title
@@ -403,6 +400,8 @@ def extract_tvg_id(channel_title):
         return "FOX"
     elif "SETANTA" in title:
         return "SETANTA SPORTS" + resolution
+    elif "MUNDIAL" in title:
+        return title
     else:
         return channel_title
 
