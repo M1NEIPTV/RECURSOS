@@ -151,5 +151,5 @@ plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e8
 plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV3 POR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/e808esla5ae9oup/Sport%20TV3.png" ,Sport TV3 POR FHD
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,10/09/2023 13:13:32
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,10/09/2023 14:31:24
 NULL
