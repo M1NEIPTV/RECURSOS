@@ -5,16 +5,6 @@ plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf80
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1 HD
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 1" tvg-logo="" ,Gol Mundial 1
-plugin://script.module.horus?action=play&id=78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 2" tvg-logo="" ,Gol Mundial 2
-plugin://script.module.horus?action=play&id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 3" tvg-logo="" ,Gol Mundial 3
-plugin://script.module.horus?action=play&id=52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 3" tvg-logo="" ,Gol Mundial 3
-plugin://script.module.horus?action=play&id=d6d5775a2965b15ee405278b6a2e5a4374a80e25
-#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="Gol Mundial 4" tvg-logo="" ,Gol Mundial 4
-plugin://script.module.horus?action=play&id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV FHD
 plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV FHD
@@ -151,5 +141,5 @@ plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e8
 plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV3 POR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/e808esla5ae9oup/Sport%20TV3.png" ,Sport TV3 POR FHD
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,12/09/2023 12:19:45
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,12/09/2023 12:58:36
 NULL
