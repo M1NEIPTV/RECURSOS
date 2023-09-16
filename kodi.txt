@@ -43,6 +43,12 @@ plugin://script.module.horus?action=play&id=8c71f0e0a5476e10950fc827f9d2a507340a
 plugin://script.module.horus?action=play&id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/dxm73pb4vpvq262/DAZNLIGA5.png" ,DAZN LaLiga 5 FHD
 plugin://script.module.horus?action=play&id=99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga" tvg-logo="https://www.dl.dropboxusercontent.com/s/x7cacw7iuvijoqh/DAZNLIGA.png" ,DAZN LaLiga
+plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" tvg-logo="https://www.dl.dropboxusercontent.com/s/pqf30i4krupb487/DAZNLIGA2.png" ,DAZN LaLiga 2
+plugin://script.module.horus?action=play&id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2" tvg-logo="https://www.dl.dropboxusercontent.com/s/pqf30i4krupb487/DAZNLIGA2.png" ,DAZN LaLiga 2
+plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/7q6ovz7ciof8kfm/MLC.png" ,M+ Liga de Campeones FHD
 plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/7q6ovz7ciof8kfm/MLC.png" ,M+ Liga de Campeones FHD
@@ -143,5 +149,5 @@ plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e8
 plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV3 POR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/e808esla5ae9oup/Sport%20TV3.png" ,Sport TV3 POR FHD
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,16/09/2023 18:22:29
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,16/09/2023 19:14:34
 NULL
