@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color1.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1
+plugin://script.module.horus?action=play&id=6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1 FHD
 plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1 FHD
@@ -141,5 +143,5 @@ plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e8
 plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV3 POR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/e808esla5ae9oup/Sport%20TV3.png" ,Sport TV3 POR FHD
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,16/09/2023 01:16:21
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,16/09/2023 03:14:55
 NULL
