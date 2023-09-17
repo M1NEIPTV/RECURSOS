@@ -266,7 +266,7 @@ def extract_tvg_id(channel_title):
     else:
         resolution = ""
 
-    title = title.replace("1080", "").replace("720", "")
+    title = title.replace("1080", "").replace("720", "").replace("1440", "")
     
     if "BARÇA" in title or "BARCA" in title or "BARÃ§A" in title:
         return "Barça TV" + resolution
@@ -407,8 +407,8 @@ def extract_tvg_id(channel_title):
         return channel_title
 
 def get_logo(tvg_id):
-    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" UHD", "") in tvg_ids_logos:
-        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" UHD", "")]
+    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "") in tvg_ids_logos:
+        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "")]
     else:
         return ""
 
