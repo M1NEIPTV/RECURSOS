@@ -112,6 +112,7 @@ def export_channels(channel_dict, export_file):
 
     if all_channels != "":
         all_channels_get = all_channels.replace("acestream://", "http://127.0.0.1:6878/ace/getstream?id=")
+        all_channels_kodi = all_channels.replace("acestream://", "plugin://script.module.horus?action=play&id=")
 
         with open(export_file, "w") as f:
             f.write(all_channels)
