@@ -175,7 +175,7 @@ def extract_tvg_id(channel_title):
     elif "SD" in channel_title:
         resolution = " SD"
     elif "UHD" in channel_title:
-        resolution = " 4K"
+        resolution = " UHD"
     elif "1440" in channel_title or "QHD" in channel_title:
         resolution = " 2K"
     else:
