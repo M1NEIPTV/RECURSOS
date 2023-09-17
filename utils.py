@@ -76,6 +76,11 @@ tvg_ids_logos = {
     # beIN ñ
     "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
     "M+ Ellas Vamos": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN Liga F 1": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN Liga F 2": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN Liga F 3": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN Liga F 4": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN Liga F 5": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
     # ESPN COLOMBIA
     "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
     # ESPN2 COLOMBIA
@@ -117,6 +122,8 @@ def extract_group_title(channel_title):
 
     if "DAZN" in title:
         if "LIGA" in title:
+            if "F" in title:
+                return "Femenino"
             return "DAZN LaLiga"
         elif "F1" in title or "FORMULA 1" in title or "FÓRMULA 1" in title:
             return "DAZN F1"
@@ -152,7 +159,7 @@ def extract_group_title(channel_title):
         or "PLUS" in title
     ):
         return "Otros deportes"
-    elif "ELLAS" in title or "LIGA F" in title:
+    elif "ELLAS" in title:
         return "Femenino"
     else:
         return "Otros"
