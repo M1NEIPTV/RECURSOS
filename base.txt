@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,17/09/2023 20:51:58
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,17/09/2023 21:00:36
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 4K" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 4K
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
@@ -47,14 +47,6 @@ acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png" ,DAZN LaLiga 5 FHD
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN Liga F 1" tvg-logo="" ,DAZN Liga F 1
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN Liga F 2" tvg-logo="" ,DAZN Liga F 2
-acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN Liga F 3" tvg-logo="" ,DAZN Liga F 3
-acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN Liga F 4" tvg-logo="" ,DAZN Liga F 4
-acestream://e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones FHD
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones FHD
@@ -141,6 +133,14 @@ acestream://446e73a22582921393b020ed08b768ad8e14d754
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="Femenino" tvg-id="M+ Ellas Vamos FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,M+ Ellas Vamos FHD
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title="Femenino" tvg-id="DAZN Liga F 1" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN Liga F 1
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="Femenino" tvg-id="DAZN Liga F 2" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN Liga F 2
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="Femenino" tvg-id="DAZN Liga F 3" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN Liga F 3
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group-title="Femenino" tvg-id="DAZN Liga F 4" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN Liga F 4
+acestream://e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Movistar Plus+ FHD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg" ,Movistar Plus+ FHD
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 FHD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 1 FHD
