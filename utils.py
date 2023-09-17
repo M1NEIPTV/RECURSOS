@@ -96,101 +96,6 @@ tvg_ids_logos = {
     "OTROS": "https://i.imgur.com/U4w7Bgy.png",
 }
 
-tvg_ids_logos_kodi = {
-    "DAZN F1": "https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png",
-
-    "DAZN 1": "https://www.dl.dropboxusercontent.com/s/cg46xab75pflquv/DAZN1.png",
-    "DAZN 2": "https://www.dl.dropboxusercontent.com/s/zt89ep2xa1i5z7j/DAZN2.png",
-    "DAZN 3": "https://www.dl.dropboxusercontent.com/s/4jxl0212wyzaz68/DAZN3.png",
-    "DAZN 4": "https://www.dl.dropboxusercontent.com/s/mxb9cc8kurvyj8l/DAZN4.png",
-    
-    "DAZN LaLiga": "https://www.dl.dropboxusercontent.com/s/x7cacw7iuvijoqh/DAZNLIGA.png",
-    "DAZN LaLiga 2": "https://www.dl.dropboxusercontent.com/s/pqf30i4krupb487/DAZNLIGA2.png",
-    "DAZN LaLiga 3": "https://www.dl.dropboxusercontent.com/s/a73r99lirsop8m2/DAZNLIGA3.png",
-    "DAZN LaLiga 4": "https://www.dl.dropboxusercontent.com/s/jkgagx7db8ehm1f/DAZNLIGA4.png",
-    "DAZN LaLiga 5": "https://www.dl.dropboxusercontent.com/s/dxm73pb4vpvq262/DAZNLIGA5.png",
-    
-    "Eurosport 1": "https://www.dl.dropboxusercontent.com/s/jmz8fdvq1pebg6o/EU1.png",
-    "Eurosport 2": "https://www.dl.dropboxusercontent.com/s/abs6w0jwnfrm1p6/EU2.png",
-    
-    "M+ #Vamos": "https://www.dl.dropboxusercontent.com/s/y2amoq22l37itmt/%23Vamos.png",
-    
-    "M+ Deportes": "https://www.dl.dropboxusercontent.com/s/4et9nchmk7vghee/MD.png",
-    "M+ Deportes 2": "https://www.dl.dropboxusercontent.com/s/trdimkfla6vtho7/MD2.png",
-    "M+ Deportes 3": "https://www.dl.dropboxusercontent.com/s/qc0ggeld45wlviz/MD3.png",
-    "M+ Deportes 4": "https://www.dl.dropboxusercontent.com/s/tnhtml1v13a08on/MD4.png",
-    "M+ Deportes 5": "https://www.dl.dropboxusercontent.com/s/67n4m07abrs7mia/MD5.png",
-    "M+ Deportes 6": "https://www.dl.dropboxusercontent.com/s/hk0sxelqhphpsww/MD6.png",
-    "M+ Deportes 7": "https://www.dl.dropboxusercontent.com/s/kwxkchcccgxr4uj/MD7.png",
-    
-    "M+ Golf": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
-    
-    "M+ LaLiga TV": "https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png",
-    "M+ LaLiga TV 2": "https://www.dl.dropboxusercontent.com/s/5zn0t289cys9xaw/MLL2.png",
-    "M+ LaLiga TV 3": "https://www.dl.dropboxusercontent.com/s/9esmglg1g70epjv/MLL3.png",
-    "M+ LaLiga TV 4": "https://www.dl.dropboxusercontent.com/s/zz1qv17vtemzvgv/MLL4.png",
-    "M+ LaLiga TV 5": "https://www.dl.dropboxusercontent.com/s/4boi568mbcb3826/MLL5.png",
-    "M+ LaLiga TV 6": "https://www.dl.dropboxusercontent.com/s/5ztt3ac55ezqvsp/MLL6.png",
-    "M+ LaLiga TV 7": "https://www.dl.dropboxusercontent.com/s/6xzveh21ekajf26/MLL7.png",
-    
-    "LaLiga TV Hypermotion": "https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png",
-    "LaLiga TV Hypermotion 2": "https://www.dl.dropboxusercontent.com/s/1ia6x6a4kd1z5sd/LaLigaHypermotion2.png",
-    "LaLiga TV Hypermotion 3": "https://www.dl.dropboxusercontent.com/s/zdu2gaezkhmpvdf/LaLigaHypermotion3.png",
-    "LaLiga TV Hypermotion 4": "https://www.dl.dropboxusercontent.com/s/25rrtamwvp3pdoq/LaLigaHypermotion4.png",
-    "LaLiga TV Hypermotion 5": "https://www.dl.dropboxusercontent.com/s/a19a8g8lv6a4i0m/LaLigaHypermotion5.png",
-    "LaLiga TV Hypermotion 6": "https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png",
-    "LaLiga TV Hypermotion 7": "https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png",
-    "LaLiga TV Hypermotion 8": "https://www.dl.dropboxusercontent.com/s/a41vszxbu9kxgue/LaLigaHypermotion.png",
-    
-    "LaLiga TV BAR": "https://www.dl.dropboxusercontent.com/s/gocoqy93u2e9acw/MovistarBar.png",
-    
-    "M+ Liga de Campeones": "https://www.dl.dropboxusercontent.com/s/7q6ovz7ciof8kfm/MLC.png",
-    "M+ Liga de Campeones 2": "https://www.dl.dropboxusercontent.com/s/xjkxyrxexvyh5oa/MLC2.png",
-    "M+ Liga de Campeones 3": "https://www.dl.dropboxusercontent.com/s/4pi091p1suvrhob/MLC3.png",
-    "M+ Liga de Campeones 4": "https://www.dl.dropboxusercontent.com/s/3b8sbxy2c67gzr9/MLC4.png",
-    "M+ Liga de Campeones 5": "https://www.dl.dropboxusercontent.com/s/wafo7vbzvdqdmeu/MLC5.png",
-    "M+ Liga de Campeones 6": "https://www.dl.dropboxusercontent.com/s/p3mvrbo1qgh3o3j/MLC6.png",
-    "M+ Liga de Campeones 7": "https://www.dl.dropboxusercontent.com/s/a20uy8jympmbgko/MLC7.png",
-    "M+ Liga de Campeones 8": "https://www.dl.dropboxusercontent.com/s/b9pzllx55tf5pqw/MLC8.png",
-    "M+ Liga de Campeones 9": "https://www.dl.dropboxusercontent.com/s/6tmmnax3ot0he3s/MLC9.png",
-    "M+ Liga de Campeones 10": "https://www.dl.dropboxusercontent.com/s/26eer0jg758v8bt/MLC10.png",
-    "M+ Liga de Campeones 11": "https://www.dl.dropboxusercontent.com/s/9xgyimlgvsej0o8/MLC11.png",
-    "M+ Liga de Campeones 12": "https://www.dl.dropboxusercontent.com/s/7rv75tz3fslviwc/MLC12.png",
-    
-    "M+ #0": "https://www.dl.dropboxusercontent.com/s/w11bgdzpklzmxrm/0.png",
-    
-    "Barça TV": "https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",
-    "BE MAD": "https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png",
-    "CUATRO": "https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png",
-    "GOL PLAY": "https://i.ibb.co/5hYsXDR/Gol.jpg",
-    "HISTORIA": "https://i.postimg.cc/NGrXN3S1/historia.png",
-    "LA 1": "https://img.sport-tv-guide.live/images/tv-station-la-1-838.png",
-    "NAT GEO": "https://i.postimg.cc/CMb7QnfM/natgeo.png",
-    "TELECINCO": "https://img.sport-tv-guide.live/images/stations/a907.png",
-    "TELEDEPORTE": "https://i.ibb.co/thh1tKH/TDP.jpg",
-    
-    "Sport TV1 POR": "https://www.dl.dropboxusercontent.com/s/w3ukwi8776c0yar/Sport%20TV1.png",
-    "Sport TV2 POR": "https://www.dl.dropboxusercontent.com/s/kyzs2pqz30zxkgy/Sport%20TV2.png",
-    "Sport TV3 POR": "https://www.dl.dropboxusercontent.com/s/e808esla5ae9oup/Sport%20TV3.png",
-    # beIN ñ
-    "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
-    "M+ Ellas #V": "https://www.dl.dropboxusercontent.com/s/lujen53hyw4s3v9/Ellas.png",
-    # ESPN COLOMBIA
-    "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
-    # ESPN2 COLOMBIA
-    "I254.37747.schedulesdirect.org": "https://telegra.ph/file/e1e320f40b02ae8d04797.jpg",
-    # ESPN3 COLOMBIA
-    "I261.79042.schedulesdirect.org": "https://telegra.ph/file/2ec81705d153bf37a667e.jpg",
-    # ESPN EXTRA COLOMBIA
-    "I898.65930.schedulesdirect.org": "https://telegra.ph/file/08927c1764c7fe25def94.jpg",
-    "FOX": "https://img2.freepng.es/20180614/iju/kisspng-fox-broadcasting-company-logo-television-fox-inter-television-program-5b2265b47733b2.8204491215289809164883.jpg",
-    "NBA": "https://i.imgur.com/4QrPlos.png",
-    # TENNIS CHANNEL
-    "I217.33395.zap2it.com": "https://www.dl.dropboxusercontent.com/s/f6qevbcje4mg4hj/TennisChannel.png",
-    "SETANTA SPORTS": "https://www.dl.dropboxusercontent.com/s/yodhlwwwtrk5ej7/Setanta.png",
-    "OTROS": "https://i.imgur.com/U4w7Bgy.png",
-}
-
 group_title_order = [
     "DAZN F1",
     "GOL MUNDIAL",
@@ -423,11 +328,5 @@ def extract_tvg_id(channel_title):
 def get_logo(tvg_id):
     if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "").replace(" UHD", "").replace(" QHD", "") in tvg_ids_logos:
         return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "").replace(" UHD", "").replace(" QHD", "")]
-    else:
-        return ""
-
-def get_logo_kodi(tvg_id):
-    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "") in tvg_ids_logos_kodi:
-        return tvg_ids_logos_kodi[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "")]
     else:
         return ""
