@@ -104,7 +104,8 @@ def export_channels(channel_dict, export_file):
         for channel_info in channel_list:
             if channel_info["group_title"] == group_title:
                 if not any(channel in channel_info["channel_name"] for channel in excluded_channels):
-                    channel_name = channel_info["tvg_id"].replace(" UHD", " 4K")
+                    channel_name = channel_info["tvg_id"]
+                    channel_name = channel_name.replace(" UHD", " 4K")
                     
                     all_channels += channel_pattern.replace("GROUPTITLE", channel_info["group_title"]) \
                                                    .replace("TVGID", channel_info["tvg_id"]) \
