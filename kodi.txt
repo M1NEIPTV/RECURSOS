@@ -7,7 +7,7 @@ plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf80
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/i44wih701bowwqn/DAZNF1.png" ,DAZN F1 HD
 plugin://script.module.horus?action=play&id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4K" tvg-logo="" ,M+ LaLiga TV 4K
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV UHD" tvg-logo="" ,M+ LaLiga TV UHD
 plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/8fvgkwi05n7wn2t/MLL.png" ,M+ LaLiga TV FHD
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
@@ -153,5 +153,5 @@ plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e8
 plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV3 POR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/e808esla5ae9oup/Sport%20TV3.png" ,Sport TV3 POR FHD
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,17/09/2023 13:35:57
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/en6924caimxc2pf/Actualizado.png" ,17/09/2023 13:56:10
 NULL
