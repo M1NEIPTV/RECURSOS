@@ -262,7 +262,7 @@ def extract_tvg_id(channel_title):
     elif "UHD" in channel_title:
         resolution = " 4K"
     elif "1440" in channel_title:
-        resolution = " 4K"
+        resolution = " UHD"
     else:
         resolution = ""
 
@@ -407,8 +407,8 @@ def extract_tvg_id(channel_title):
         return channel_title
 
 def get_logo(tvg_id):
-    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "") in tvg_ids_logos:
-        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "")]
+    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" UHD", "") in tvg_ids_logos:
+        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" UHD", "")]
     else:
         return ""
 
