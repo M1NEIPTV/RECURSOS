@@ -201,13 +201,14 @@ group_title_order = [
     "M+ Deportes",
     "M+ LaLiga BAR",
     "M+ LaLiga Hypermotion",
+    "Femenino",
     "EuroSport",
     "Otros deportes",
     "Otros",
 ]
 
 def extract_group_title(channel_title):
-    title = channel_title.upper().replace("1080", "").replace("720", "")
+    title = channel_title.upper().replace("1080", "").replace("720", "").replace("1440", "")
 
     if "DAZN" in title:
         if "LIGA" in title:
@@ -216,7 +217,7 @@ def extract_group_title(channel_title):
             return "DAZN F1"
         else:
             return "DAZN"
-    elif "DEPORTES" in title or "VAMOS" in title or "GOLF" in title or "ELLAS" in title:
+    elif "DEPORTES" in title or "VAMOS" in title or "GOLF" in title:
         return "M+ Deportes"
     elif (
         "LIGA" in title
@@ -246,6 +247,8 @@ def extract_group_title(channel_title):
         or "PLUS" in title
     ):
         return "Otros deportes"
+    elif "ELLAS" in title or "LIGA F" in title:
+        return "Femenino"
     else:
         return "Otros"
 
@@ -261,8 +264,8 @@ def extract_tvg_id(channel_title):
         resolution = " SD"
     elif "UHD" in channel_title:
         resolution = " 4K"
-    elif "1440" in channel_title:
-        resolution = " UHD"
+    elif "1440" in channel_title or "QHD" in channel_title:
+        resolution = " 2K"
     else:
         resolution = ""
 
@@ -283,6 +286,17 @@ def extract_tvg_id(channel_title):
             return "DAZN 4" + resolution
         elif "F1" in title or "FORMULA" in title or "FÓRMULA" in title:
             return "DAZN F1" + resolution
+        elif "LIGA F" in title:
+            if "2" in title:
+                return "DAZN Liga F 2" + resolution
+            elif "3" in title:
+                return "DAZN Liga F 3" + resolution
+            elif "4" in title:
+                return "DAZN Liga F 4" + resolution
+            elif "5" in title:
+                return "DAZN Liga F 5" + resolution
+            else:
+                return "DAZN Liga F 1" + resolution
         elif "LIGA" in title:
             if "2" in title:
                 return "DAZN LaLiga 2" + resolution
@@ -407,8 +421,8 @@ def extract_tvg_id(channel_title):
         return channel_title
 
 def get_logo(tvg_id):
-    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" UHD", "") in tvg_ids_logos:
-        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" UHD", "")]
+    if tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "").replace(" UHD", "").replace(" QHD", "") in tvg_ids_logos:
+        return tvg_ids_logos[tvg_id.replace(" FHD", "").replace(" HD", "").replace(" SD", "").replace(" 4K", "").replace(" 2K", "").replace(" UHD", "").replace(" QHD", "")]
     else:
         return ""
 
