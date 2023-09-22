@@ -200,15 +200,15 @@ def extract_tvg_id(channel_title):
             return "DAZN F1" + resolution
         elif "LIGA F" in title:
             if "2" in title:
-                return "DAZN Liga F 2" + resolution
+                return "DAZN LaLiga Femenina 2" + resolution
             elif "3" in title:
-                return "DAZN Liga F 3" + resolution
+                return "DAZN LaLiga Femenina 3" + resolution
             elif "4" in title:
-                return "DAZN Liga F 4" + resolution
+                return "DAZN LaLiga Femenina 4" + resolution
             elif "5" in title:
-                return "DAZN Liga F 5" + resolution
+                return "DAZN LaLiga Femenina 5" + resolution
             else:
-                return "DAZN Liga F 1" + resolution
+                return "DAZN LaLiga Femenina 1" + resolution
         elif "LIGA" in title:
             if "2" in title:
                 return "DAZN LaLiga 2" + resolution
