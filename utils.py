@@ -76,11 +76,11 @@ tvg_ids_logos = {
     # beIN ñ
     "I873.76943.schedulesdirect.org": "https://i.imgur.com/XcjYBfj.png",
     "M+ Ellas Vamos": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
-    "DAZN Liga F 1": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
-    "DAZN Liga F 2": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
-    "DAZN Liga F 3": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
-    "DAZN Liga F 4": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
-    "DAZN Liga F 5": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN LaLiga Femenina 1": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN LaLiga Femenina 2": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN LaLiga Femenina 3": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN LaLiga Femenina 4": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
+    "DAZN LaLiga Femenina 5": "https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png",
     # ESPN COLOMBIA
     "I249.19158.schedulesdirect.org": "https://telegra.ph/file/1c26a0d324322f91a369e.jpg",
     # ESPN2 COLOMBIA
