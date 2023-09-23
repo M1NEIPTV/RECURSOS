@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,23/09/2023 21:14:15
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,23/09/2023 22:16:38
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 UHD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 4K
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
@@ -15,6 +15,8 @@ acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV FHD
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV HD
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,M+ LaLiga TV 2 FHD
@@ -46,9 +48,9 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png" ,DAZN LaLiga 5 FHD
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones FHD
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones FHD
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones FHD
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones FHD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones FHD
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones HD
