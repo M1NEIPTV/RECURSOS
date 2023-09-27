@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,27/09/2023 10:22:45
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,27/09/2023 11:19:50
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 UHD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 4K
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
@@ -81,7 +81,7 @@ acestream://d42e1b592b840ea34394fd3e1b1d3a4d0f399213
 acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12 SD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones 12 SD
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7 SD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones 7 SD
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 17 SD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones 17 SD
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png" ,DAZN 1 FHD
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
