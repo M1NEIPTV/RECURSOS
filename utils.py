@@ -57,6 +57,14 @@ tvg_ids_logos = {
     "M+ Liga de Campeones 10": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     "M+ Liga de Campeones 11": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     "M+ Liga de Campeones 12": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 13": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 14": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 15": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 16": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 17": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 18": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 19": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
+    "M+ Liga de Campeones 20": "https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg",
     
     "Movistar Plus+": "https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg",
     
@@ -291,7 +299,7 @@ def extract_tvg_id(channel_title):
         else:
             return "M+ Deportes" + resolution
     elif "CAMPEONES" in title:
-        for i in ["12", "3", "4", "5", "6", "7", "8", "9", "10", "11", "2"]:
+        for i in ["12", "3", "4", "5", "6", "7", "8", "9", "10", "11", "2", "13", "14", "15", "16", "17", "18", "19", "20"]:
             if i in title:
                 return "M+ Liga de Campeones " + i + resolution
         return "M+ Liga de Campeones" + resolution
