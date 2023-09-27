@@ -299,7 +299,7 @@ def extract_tvg_id(channel_title):
         else:
             return "M+ Deportes" + resolution
     elif "CAMPEONES" in title:
-        for i in ["12", "3", "4", "5", "6", "7", "8", "9", "10", "11", "2", "13", "14", "15", "16", "17", "18", "19", "20"]:
+        for i in ["20", "13", "14", "15", "16", "17", "18", "19", "12", "3", "4", "5", "6", "7", "8", "9", "10", "11", "2"]:
             if i in title:
                 return "M+ Liga de Campeones " + i + resolution
         return "M+ Liga de Campeones" + resolution
