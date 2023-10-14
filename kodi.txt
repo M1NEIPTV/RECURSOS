@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,14/10/2023 19:15:13
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,14/10/2023 20:22:11
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 UHD" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 4K
 plugin://script.module.horus?action=play&id=6b94479c24898700089e6b87d28a3ccc72dc4041
@@ -140,7 +140,7 @@ plugin://script.module.horus?action=play&id=67654e63b5065cdaa6c8e8d41bb5428b42b3
 #EXTINF:-1 group-title="Femenino" tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN LaLiga Femenina 1
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 group-title="Femenino" tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN LaLiga Femenina 2
-plugin://script.module.horus?action=play&id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="Femenino" tvg-id="DAZN LaLiga Femenina 3" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN LaLiga Femenina 3
 plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="Femenino" tvg-id="DAZN LaLiga Femenina 4" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,DAZN LaLiga Femenina 4
