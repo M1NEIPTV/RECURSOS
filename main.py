@@ -76,8 +76,6 @@ def export_channels(channel_dict, export_file):
     dt_spain = dt_now.astimezone(timezone)
 
     dt_string = dt_spain.strftime("%d/%m/%Y %H:%M:%S")
-
-    print(channel_name)
     
     for channel_id, channel_name in channel_dict.items():
         group_title = u.extract_group_title(channel_name)
@@ -90,6 +88,8 @@ def export_channels(channel_dict, export_file):
                         "channel_id": channel_id,
                         "channel_name": channel_name + "  " + identif}
         channel_list.append(channel_info)
+
+    print(channel_name)
         
     all_channels = ""
     all_channels += '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"\n'
