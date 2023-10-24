@@ -76,6 +76,8 @@ def export_channels(channel_dict, export_file):
     dt_spain = dt_now.astimezone(timezone)
 
     dt_string = dt_spain.strftime("%d/%m/%Y %H:%M:%S")
+
+    print(channel_name)
     
     for channel_id, channel_name in channel_dict.items():
         group_title = u.extract_group_title(channel_name)
@@ -104,7 +106,6 @@ def export_channels(channel_dict, export_file):
         for channel_info in channel_list:
             if channel_info["group_title"] == group_title:
                 if not any(channel in channel_info["channel_name"] for channel in excluded_channels):
-                    print(channel_name)
                     if "DAZN F1 Multicamara" in channel_name:
                         channel_name = "DAZN F1 Multicámara"
                     else:
