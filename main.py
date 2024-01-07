@@ -90,7 +90,7 @@ def export_channels(channel_dict, export_file):
         channel_list.append(channel_info)
         
     all_channels = ""
-    all_channels += '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"\n'
+    all_channels += '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"\n'
     channel_pattern = '#EXTINF:-1 group-title="GROUPTITLE" tvg-id="TVGID" tvg-logo="LOGO" ,CHANNELTITLE\nacestream://CHANNELID\n'
 
     all_channels += channel_pattern.replace("GROUPTITLE", "Otros") \
