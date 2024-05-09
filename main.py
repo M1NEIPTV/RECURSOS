@@ -68,7 +68,7 @@ def update_channel_dict(message_content, channel_dict):
 
 def export_channels(channel_dict, export_file):
     channel_list = []
-    excluded_channels = ["La 1", "CUATRO", "Telecinco", "BeMad", "ESPN", "Barça", "beIN", "tdp", "GOL TV", "Golf", "#0", "La2"]
+    excluded_channels = ["La 1", "CUATRO", "Telecinco", "BeMad", "ESPN", "Barça", "beIN", "tdp", "GOL TV", "Golf", "#0", "La2", "Copa"]
 
     dt_now = datetime.now(pytz.utc)
 
