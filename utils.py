@@ -353,7 +353,7 @@ def extract_tvg_id(channel_title):
     elif "PPVP" in title:
         for i in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]:
             if i in title:
-                return "DAZN PPVP" + i
+                return "DAZN PPVP " + i
         return "DAZN PPVP"
     else:
         return channel_title
