@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,09/05/2024 17:21:33
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,09/05/2024 18:02:20
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 Multicámara
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
@@ -79,6 +79,8 @@ acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 17 SD" tvg-logo="https://pbs.twimg.com/profile_images/1417052605776375813/Jc9RL5o7.jpg" ,M+ Liga de Campeones 17 SD
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN PPVP2" tvg-logo="" ,DAZN PPVP2
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png" ,DAZN 1 FHD
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png" ,DAZN 1 HD
@@ -91,6 +93,12 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png" ,DAZN 4 FHD
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN PPVP1" tvg-logo="" ,DAZN PPVP1
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN PPVP3" tvg-logo="" ,DAZN PPVP3
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN PPVP4" tvg-logo="" ,DAZN PPVP4
+acestream://e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos FHD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg" ,M+ Vamos FHD
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg" ,M+ Vamos HD
@@ -151,17 +159,9 @@ acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="Otros" tvg-id="Copa 1080" tvg-logo="" ,Copa 1080
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 group-title="Otros" tvg-id="PPVP 2" tvg-logo="" ,PPVP 2
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="Otros" tvg-id="Copa 1080 MultiAudio" tvg-logo="" ,Copa 1080 MultiAudio
 acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 group-title="Otros" tvg-id="Copa 1080" tvg-logo="" ,Copa 1080
 acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
 #EXTINF:-1 group-title="Otros" tvg-id="Copa 720" tvg-logo="" ,Copa 720
 acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
-#EXTINF:-1 group-title="Otros" tvg-id="PPVP 1" tvg-logo="" ,PPVP 1
-acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="Otros" tvg-id="PPVP 3" tvg-logo="" ,PPVP 3
-acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="Otros" tvg-id="PPVP 4" tvg-logo="" ,PPVP 4
-acestream://e454681a152a86da504e63694f17f90d0586867d
