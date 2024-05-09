@@ -5,6 +5,17 @@ tvg_ids_logos = {
     "DAZN 2": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
     "DAZN 3": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
     "DAZN 4": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+
+    "DAZN PPVP 1": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 2": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 3": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 4": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 5": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 6": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 7": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 8": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 9": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
+    "DAZN PPVP 10": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
     
     "DAZN LaLiga": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
     "DAZN LaLiga 2": "https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-8.png",
@@ -169,6 +180,8 @@ def extract_group_title(channel_title):
         return "Otros deportes"
     elif "ELLAS" in title:
         return "Femenino"
+    elif "PPVP" in title:
+        return "DAZN"
     else:
         return "Otros"
 
@@ -337,6 +350,11 @@ def extract_tvg_id(channel_title):
         return "SETANTA SPORTS" + resolution
     elif "MUNDIAL" in title:
         return channel_title
+    elif "PPVP" in title:
+        for i in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]:
+            if i in title:
+                return "DAZN PPVP" + i
+        return "DAZN PPVP"
     else:
         return channel_title
 
