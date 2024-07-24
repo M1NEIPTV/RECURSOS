@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,24/07/2024 00:20:02
+#EXTINF:-1 group-title="Otros" tvg-id="ACTUALIZACION" tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png" ,24/07/2024 03:34:43
 NULL
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X=w240-h480-rw" ,DAZN F1 Multicámara
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
@@ -149,14 +149,14 @@ acestream://d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
 acestream://7b975804279b0aa421496538ad21397cc06ddfb8
 #EXTINF:-1 group-title="Femenino" tvg-id="M+ Ellas Vamos FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/fbvvns94h12j1oh/LigaF.png" ,M+ Ellas Vamos FHD
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Movistar Plus+ FHD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg" ,Movistar Plus+ FHD
-acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 1
-acestream://c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 FHD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 1 FHD
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2 FHD" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 2 FHD
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Movistar Plus+ FHD" tvg-logo="https://www.cineytele.com/wp-content/uploads/2021/03/movistar.jpg" ,Movistar Plus+ FHD
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1" tvg-logo="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/9893f1f5-8111-4ac8-b34b-83fbc7b1040c/icon/504da715-1c86-443a-8fb9-d76a59e902d0" ,Eurosport 1
+acestream://c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I217.33395.zap2it.com" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg" ,Tennis Channel
 acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV1 POR FHD" tvg-logo="https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs" ,Sport TV1 POR FHD
@@ -165,5 +165,25 @@ acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
 acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV3 POR FHD" tvg-logo="https://play-lh.googleusercontent.com/Vo2LlTNSgBAOrvHBIZwVsR8J-a8J1h7tyGBOjHrxnKPEt3NnphxCpAZUspDAqqPNScs" ,Sport TV3 POR FHD
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 group-title="Otros" tvg-id="Euro 4k" tvg-logo="" ,Euro 4k
+acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1 group-title="Otros" tvg-id="Euro1 1080P" tvg-logo="" ,Euro1 1080P
+acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="Otros" tvg-id="Euro2 1080" tvg-logo="" ,Euro2 1080
+acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="Otros" tvg-id="Euro3 1080" tvg-logo="" ,Euro3 1080
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="Otros" tvg-id="Euro4 1080" tvg-logo="" ,Euro4 1080
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="Otros" tvg-id="Euro5 1080" tvg-logo="" ,Euro5 1080
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="Otros" tvg-id="Euro6 1080" tvg-logo="" ,Euro6 1080
+acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="Otros" tvg-id="Euro7 1080" tvg-logo="" ,Euro7 1080
+acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="Otros" tvg-id="Euro8 1080" tvg-logo="" ,Euro8 1080
+acestream://721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="Otros" tvg-id="Euro9 1080" tvg-logo="" ,Euro9 1080
+acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 #EXTINF:-1 group-title="Otros" tvg-id="LaLiga TV BAR FHD" tvg-logo="https://www.dl.dropboxusercontent.com/s/wic00m3qc6xxjwf/M%2B%20LaLigaTV.png" ,LaLiga TV BAR FHD
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
