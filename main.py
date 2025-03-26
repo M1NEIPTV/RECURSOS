@@ -6,6 +6,7 @@ from datetime import datetime
 URL = "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u"
 ARCHIVO_SALIDA = "get.txt"
 REEMPLAZOS = [" --> NEW ERA", " --> ELCANO", " --> NEW LOOP"]
+CANALES_EXCLUIDOS = ["AUTOMOTORSPORT", "CANAL MOTOR", "MOTORS TV", "MOTORVISION", "NBA", "SKY SPORTS ARENA", "SKY SPORTS CRICKET", "SUPERTENNIS", "TENNIS CHANNEL", "TR:", "UFC FIGHT PASS"]
 
 # Parámetros de reintento
 INTENTOS_MAXIMOS = 3
@@ -33,6 +34,22 @@ def agregar_hora_como_canal(contenido):
     contenido = canal_hora + contenido
     return contenido
 
+# Elimina de la lista los canales especificados en la lista de exclusión
+def excluir_canales(contenido, canales_excluidos):
+    lineas = contenido.splitlines()
+    contenido_filtrado = []
+    excluir = False
+
+    canales_excluidos_upper = [canal.upper() for canal in canales_excluidos]
+
+    for linea in lineas:
+        if linea.startswith("#EXTINF"):
+            excluir = any(nombre.upper() in linea.upper() for nombre in canales_excluidos_upper)
+        if not excluir:
+            contenido_filtrado.append(linea)
+
+    return "\n".join(contenido_filtrado) + "\n"
+
 # Guarda el contenido en un archivo
 def guardar_archivo(nombre_archivo, contenido):
     try:
@@ -48,7 +65,8 @@ def main():
     
     if contenido:
         contenido_modificado = modificar_contenido(contenido, REEMPLAZOS)
-        contenido_final = agregar_hora_como_canal(contenido_modificado)
+        contenido_sin_excluidos = excluir_canales(contenido_modificado, CANALES_EXCLUIDOS)
+        contenido_final = agregar_hora_como_canal(contenido_sin_excluidos)
         guardar_archivo(ARCHIVO_SALIDA, contenido_final)
 
 if __name__ == "__main__":
