@@ -15,7 +15,6 @@ jobs:
       contents: write
       
     steps:
-
       - name: checkout repo content
         uses: actions/checkout@v4
 
