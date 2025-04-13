@@ -3,7 +3,8 @@ from tenacity import retry, stop_after_attempt, wait_fixed
 from datetime import datetime
 
 # Configuración
-URL = "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u"
+# URL = "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u"
+URL = "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u"
 ARCHIVO_SALIDA = "get.txt"
 REEMPLAZOS = [" --> NEW ERA", " --> ELCANO", " --> NEW LOOP"]
 CANALES_EXCLUIDOS = ["AUTOMOTORSPORT", "CANAL MOTOR", "MOTORS TV", "MOTORVISION", "NBA", "SKY SPORTS ARENA", "SKY SPORTS CRICKET", "SUPERTENNIS", "TENNIS CHANNEL", "TR:", "UFC FIGHT PASS", "FOX", "HOLLYWOOD", "BUNDESLIGA", "RETROVISION"]
