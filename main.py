@@ -1,9 +1,9 @@
 import requests
 from tenacity import retry, stop_after_attempt, wait_fixed
 from datetime import datetime
+import pytz
 
 # Configuración
-# URL = "https://proxy.zeronet.dev/1H3KoazXt2gCJgeD8673eFvQYXG7cbRddU/lista-ace.m3u"
 URL = "https://proxy.zeronet.dev/1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q/data/listas/lista_fuera_iptv.m3u"
 ARCHIVO_SALIDA = "get.txt"
 REEMPLAZOS = [" --> NEW ERA", " --> ELCANO", " --> NEW LOOP"]
@@ -29,9 +29,12 @@ def modificar_contenido(contenido, reemplazos):
 
 # Añade un canal en la primera línea con la hora de generación del archivo
 def agregar_hora_como_canal(contenido):
-    fecha_actual = datetime.now().strftime("%d/%m/%Y")  # Formato DD/MM/YYYY
-    hora_actual = datetime.now().strftime("%H:%M:%S")   # Formato HH:MM:SS
-    canal_hora = f'#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", {fecha_actual} {hora_actual}\nhttp://127.0.0.1:6878/ace/getstream?id=\n\n'
+    dt_now = datetime.now(pytz.utc)
+    timezone = pytz.timezone('Europe/Madrid')
+    dt_spain = dt_now.astimezone(timezone)
+    dt_string = dt_spain.strftime("%d/%m/%Y %H:%M:%S")
+    
+    canal_hora = f'#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", {dt_string}\nhttp://127.0.0.1:6878/ace/getstream?id=\n\n'
     contenido = canal_hora + contenido
     return contenido
 
