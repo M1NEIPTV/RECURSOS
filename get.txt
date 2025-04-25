@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 25/04/2025 21:10:19
+#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 25/04/2025 22:13:44
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
@@ -260,6 +260,8 @@ acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1
+acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD II
@@ -324,6 +326,8 @@ acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/99.png" tvg-id="Ziggo.Sport.nl" group-title="FUTBOL INT", ZIGGO SPORT
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/474.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/419.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="" group-title="MOTOR", RALLY TV III
