@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 30/04/2025 00:12:19
+#EXTINF:-1 tvg-logo="https://www.dl.dropboxusercontent.com/s/11sa5eu1urweo3e/Actualizado.png", 30/04/2025 01:12:03
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
@@ -126,8 +126,6 @@ acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
 acestream://a9025d4e168764248d33129c30940502cea0e1c2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD
 acestream://47223e64a576c21bd61e818a42397a753d34fba5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD
@@ -279,15 +277,13 @@ acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 FHD
 acestream://c1fb3fd5e4a6b6c6d4a463834841f1d66518d061
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2
-acestream://186a997787dcdb76f1b17e4dd5c55910d4847fa7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 FHD
 acestream://ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ
-acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
+acestream://8ce921a0c0f4d03e10f87ab8f93f236c492ef23f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK]
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK]
@@ -296,8 +292,6 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 acestream://06fd695a8353f40d6586db7c778a5862554c09d1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK]
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK]
-acestream://927996b8192c7cc6bf768d52528c8e4198294328
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK]
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK]
